@@ -92,7 +92,7 @@ can we build abstract entities or abstract objects in our mind or in
 
 # 理发师悖论（自指）
 
-[[06 - 数学与物理/哥德尔不完备性定理\|哥德尔不完备性定理]]
+[[06 - 数学/哥德尔不完备性定理\|哥德尔不完备性定理]]
 
 # Python OOP 示例
 
