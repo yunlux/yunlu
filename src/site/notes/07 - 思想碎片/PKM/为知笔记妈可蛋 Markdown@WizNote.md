@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07 - 思想碎片/PKM/为知笔记妈可蛋 Markdown@WizNote/"}
+{"dg-publish":true,"permalink":"/07 - 思想碎片/PKM/为知笔记妈可蛋 Markdown@WizNote/","created":"2024-06-10T09:48:54.597+08:00","updated":"2024-06-11T12:23:31.076+08:00"}
 ---
 
 

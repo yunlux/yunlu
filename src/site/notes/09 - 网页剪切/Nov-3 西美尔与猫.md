@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"西美尔","permalink":"/西美尔/"}
+{"dg-publish":true,"dg-permalink":"西美尔","permalink":"/西美尔/","created":"2024-08-18T21:33:26.661+08:00","updated":"2024-08-18T21:34:20.323+08:00"}
 ---
 
 现代人就像猫，高傲、矜持、无害、谨慎。拥有自己的小天地。想出去冒险，又害怕受伤。

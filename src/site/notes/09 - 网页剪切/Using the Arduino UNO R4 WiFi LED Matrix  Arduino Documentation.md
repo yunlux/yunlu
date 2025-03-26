@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/Using the Arduino UNO R4 WiFi LED Matrix  Arduino Documentation/"}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/Using the Arduino UNO R4 WiFi LED Matrix  Arduino Documentation/","created":"2024-10-28T17:23:11.766+08:00","updated":"2024-10-28T17:23:11.767+08:00"}
 ---
 
 Get off the ground with the Arduino UNO R4 WiFi built-in LED matrix. Learn the different techniques for controlling it, create animations, graphics or even games.

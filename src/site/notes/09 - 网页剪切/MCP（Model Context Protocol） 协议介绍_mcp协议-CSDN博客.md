@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/MCP（Model Context Protocol） 协议介绍_mcp协议-CSDN博客/","title":"MCP（Model Context Protocol） 协议介绍_mcp协议-CSDN博客","tags":["网页剪切"]}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/MCP（Model Context Protocol） 协议介绍_mcp协议-CSDN博客/","title":"MCP（Model Context Protocol） 协议介绍_mcp协议-CSDN博客","tags":["网页剪切"],"created":"2025-03-18T00:17:12.296+08:00","updated":"2025-03-18T00:51:57.999+08:00"}
 ---
 
 更多新鲜技术资讯，欢迎关注公众号： [Linux开源先锋](https://mp.weixin.qq.com/s/Howw39n8qpbvLFoOqJ5NtQ)

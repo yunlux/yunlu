@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"python","permalink":"/python/"}
+{"dg-publish":true,"dg-permalink":"python","permalink":"/python/","created":"2024-08-04T12:31:07.958+08:00","updated":"2024-08-04T12:31:55.250+08:00"}
 ---
 
 
