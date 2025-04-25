@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"yiyuzhengdezhenxiang","permalink":"/yiyuzhengdezhenxiang/","title":"李雪TEDx上海演讲：揭开抑郁症的真相_哔哩哔哩_bilibili","tags":["网页剪切"],"created":"2025-04-26T01:33:36.237+08:00","updated":"2025-04-26T02:13:43.220+08:00"}
+{"dg-publish":true,"dg-permalink":"yiyuzhengdezhenxiang","permalink":"/yiyuzhengdezhenxiang/","title":"李雪TEDx上海演讲：揭开抑郁症的真相_哔哩哔哩_bilibili","tags":["网页剪切"],"created":"2025-04-26T01:33:36.237+08:00","updated":"2025-04-26T02:20:28.857+08:00"}
 ---
 
+带图笔记地址：
 
+https://yunlu.xyz/yiyudezhenxiang
 
 文本整理方式：
 
