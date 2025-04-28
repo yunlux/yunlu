@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"incel-history","permalink":"/incel-history/","title":"女性当中也有incel吗？_哔哩哔哩_bilibili","tags":["网页剪切"],"created":"2025-04-27T20:58:46.779+08:00","updated":"2025-04-27T21:03:07.666+08:00"}
+{"dg-publish":true,"dg-permalink":"incel-history","permalink":"/incel-history/","title":"女性当中也有incel吗？_哔哩哔哩_bilibili","tags":["网页剪切"],"created":"2025-04-27T20:58:46.779+08:00","updated":"2025-04-29T01:58:47.331+08:00"}
 ---
 
-yunlu.xyz/incel-history
+[yunlu.xyz/incel-history](https://yunlu.xyz/incel-history)
 
 ## 男性INCEL现象的演变与误解
 
