@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08 - 思想碎片/PKM/我的PKM之路/","created":"2024-06-10T10:56:50.005+08:00","updated":"2024-06-10T11:02:37.737+08:00"}
+{"dg-publish":true,"permalink":"/08 - 思想碎片/PKM/我的PKM之路/","created":"2024-06-10T10:56:50.005+08:00","updated":"2025-04-30T19:52:40.411+08:00"}
 ---
 
 2014.8.21
@@ -127,4 +127,15 @@ TMD太难用了！
 
 来源： <[](http://tieba.baidu.com/f?kw=xmind) [http://tieba.baidu.com/f?kw=xmind](http://tieba.baidu.com/f?kw=xmind) >
 
+
+---
+
+
+2024
+
+# 双链笔记
+
+Obsidian
+
+canvas / 白板类的图示
 
