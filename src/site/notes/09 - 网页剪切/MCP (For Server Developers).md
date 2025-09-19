@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09/mcp-for-server-developers/","title":"For Server Developers","tags":["网页剪切"],"created":"2025-04-23T15:22:31.319+08:00","updated":"2025-04-23T15:23:01.320+08:00"}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/MCP (For Server Developers)/","title":"For Server Developers","tags":["网页剪切"],"created":"2025-04-23T15:22:31.319+08:00","updated":"2025-04-23T15:23:01.320+08:00"}
 ---
 
 In this tutorial, we’ll build a simple MCP weather server and connect it to a host, Claude for Desktop. We’ll start with a basic setup, and then progress to more complex use cases.  

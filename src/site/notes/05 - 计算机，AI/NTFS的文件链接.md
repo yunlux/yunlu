@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-ai/ntfs/","created":"2024-06-09T10:24:32.798+08:00","updated":"2024-06-10T04:53:44.602+08:00"}
+{"dg-publish":true,"permalink":"/05 - 计算机，AI/NTFS的文件链接/","created":"2024-06-09T10:24:32.798+08:00","updated":"2024-06-10T04:53:44.602+08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09/11-vipassana/","created":"2024-08-11T21:26:49.415+08:00","updated":"2024-08-11T21:26:49.415+08:00"}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/孤独的哲学家 11 维帕萨纳（Vipassana）和混沌 - 知乎/","created":"2024-08-11T21:26:49.415+08:00","updated":"2024-08-11T21:26:49.415+08:00"}
 ---
 
 **Überwinde dein Wollen**
