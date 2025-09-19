@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07 - 工作/MVP（最小化可行产品）产品核心方法论 – 人人都是产品经理/","title":"MVP（最小化可行产品）产品核心方法论 – 人人都是产品经理","tags":["网页剪切"],"created":"2025-05-02T01:06:44.877+08:00","updated":"2025-05-02T01:06:55.763+08:00"}
+{"dg-publish":true,"permalink":"/07/mvp/","title":"MVP（最小化可行产品）产品核心方法论 – 人人都是产品经理","tags":["网页剪切"],"created":"2025-05-02T01:06:44.877+08:00","updated":"2025-05-02T01:06:55.763+08:00"}
 ---
 
 [![](https://image.woshipm.com/2023/04/28/01a92a6e-e58d-11ed-ba9f-00163e0b5ff3.jpg?x-oss-process=image/quality,q_80/format,webp)](https://ke.qidianla.com/courses/bcpm)

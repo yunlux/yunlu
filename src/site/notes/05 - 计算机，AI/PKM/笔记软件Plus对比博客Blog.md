@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05 - 计算机，AI/PKM/笔记软件Plus对比博客Blog/","created":"2024-06-10T09:51:38.161+08:00","updated":"2024-06-10T13:49:14.051+08:00"}
+{"dg-publish":true,"permalink":"/05-ai/pkm/plus-blog/","created":"2024-06-10T09:51:38.161+08:00","updated":"2024-06-10T13:49:14.051+08:00"}
 ---
 
 

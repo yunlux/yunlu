@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/Arduino Nano V3.0改进版 开箱晒物_键盘_什么值得买/","created":"2024-09-23T13:33:01.917+08:00","updated":"2024-09-23T13:33:01.918+08:00"}
+{"dg-publish":true,"permalink":"/09/arduino-nano-v3-0/","created":"2024-09-23T13:33:01.917+08:00","updated":"2024-09-23T13:33:01.918+08:00"}
 ---
 
 ## Arduino Nano V3.0改进版 开箱晒物

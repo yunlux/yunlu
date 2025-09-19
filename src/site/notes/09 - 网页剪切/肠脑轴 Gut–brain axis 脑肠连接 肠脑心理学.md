@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/肠脑轴 Gut–brain axis 脑肠连接 肠脑心理学/","title":"肠脑轴 Gut–brain axis 脑肠连接 肠脑心理学","tags":["网页剪切"],"created":"2025-03-28T03:13:16.623+08:00","updated":"2025-03-28T03:13:28.950+08:00"}
+{"dg-publish":true,"permalink":"/09/gut-brain-axis/","title":"肠脑轴 Gut–brain axis 脑肠连接 肠脑心理学","tags":["网页剪切"],"created":"2025-03-28T03:13:16.623+08:00","updated":"2025-03-28T03:13:28.950+08:00"}
 ---
 
 ## 肠脑轴 Gut–brain axis

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05 - 计算机，AI/chatgpt/txt转md，by chatgpt/","created":"2024-06-12T00:01:55.090+08:00","updated":"2024-06-12T12:53:42.756+08:00"}
+{"dg-publish":true,"permalink":"/05-ai/chatgpt/txt-md-by-chatgpt/","created":"2024-06-12T00:01:55.090+08:00","updated":"2024-06-12T12:53:42.756+08:00"}
 ---
 
 

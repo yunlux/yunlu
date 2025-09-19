@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/Arduino Nano - Button - LED  Arduino Nano Tutorial/","created":"2024-09-16T00:59:18.083+08:00","updated":"2024-09-23T13:33:06.453+08:00"}
+{"dg-publish":true,"permalink":"/09/arduino-nano-button-led-arduino-nano-tutorial/","created":"2024-09-16T00:59:18.083+08:00","updated":"2024-09-23T13:33:06.453+08:00"}
 ---
 
 This tutorial instructs you how to use the Arduino Nano and button to control the LED. We will learn two different applications:

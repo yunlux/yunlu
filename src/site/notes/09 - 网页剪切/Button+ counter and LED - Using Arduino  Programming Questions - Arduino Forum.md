@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/Button+ counter and LED - Using Arduino  Programming Questions - Arduino Forum/","created":"2024-09-16T01:13:02.368+08:00","updated":"2024-09-16T01:13:02.369+08:00"}
+{"dg-publish":true,"permalink":"/09/button-counter-and-led-using-arduino-programming-questions-arduino-forum/","created":"2024-09-16T01:13:02.368+08:00","updated":"2024-09-16T01:13:02.369+08:00"}
 ---
 
 Hi,  

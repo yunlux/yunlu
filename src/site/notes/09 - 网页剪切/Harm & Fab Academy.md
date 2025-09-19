@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/Harm & Fab Academy/","created":"2024-09-15T19:47:26.610+08:00","updated":"2024-09-15T19:47:26.611+08:00"}
+{"dg-publish":true,"permalink":"/09/harm-and-fab-academy/","created":"2024-09-15T19:47:26.610+08:00","updated":"2024-09-15T19:47:26.611+08:00"}
 ---
 
 During the months I have been expirimenting with these inks & Dyes.

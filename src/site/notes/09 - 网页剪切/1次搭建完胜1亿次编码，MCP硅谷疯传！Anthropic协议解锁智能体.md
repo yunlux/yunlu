@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/1次搭建完胜1亿次编码，MCP硅谷疯传！Anthropic协议解锁智能体/","title":"1次搭建完胜1亿次编码，MCP硅谷疯传！Anthropic协议解锁智能体","tags":["网页剪切"],"created":"2025-03-18T00:16:20.757+08:00","updated":"2025-03-18T00:16:34.803+08:00"}
+{"dg-publish":true,"permalink":"/09/1-1-mcp-anthropic/","title":"1次搭建完胜1亿次编码，MCP硅谷疯传！Anthropic协议解锁智能体","tags":["网页剪切"],"created":"2025-03-18T00:16:20.757+08:00","updated":"2025-03-18T00:16:34.803+08:00"}
 ---
 
 [百度首页](https://www.baidu.com/)

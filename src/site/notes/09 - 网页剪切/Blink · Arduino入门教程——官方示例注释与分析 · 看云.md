@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/Blink · Arduino入门教程——官方示例注释与分析 · 看云/","created":"2024-09-23T13:32:57.474+08:00","updated":"2024-09-23T13:32:57.474+08:00"}
+{"dg-publish":true,"permalink":"/09/blink-arduino/","created":"2024-09-23T13:32:57.474+08:00","updated":"2024-09-23T13:32:57.474+08:00"}
 ---
 
 ## 闪烁的LED

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/marlin固件烧录教程 - CSDN文库/","created":"2024-10-28T02:23:53.774+08:00","updated":"2024-10-28T17:23:07.371+08:00"}
+{"dg-publish":true,"permalink":"/09/marlin-csdn/","created":"2024-10-28T02:23:53.774+08:00","updated":"2024-10-28T17:23:07.371+08:00"}
 ---
 
 烧录Marlin固件的步骤如下：

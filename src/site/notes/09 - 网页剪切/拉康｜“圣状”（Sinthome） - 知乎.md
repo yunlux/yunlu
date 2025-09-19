@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/拉康｜“圣状”（Sinthome） - 知乎/","created":"2024-08-03T20:16:48.229+08:00","updated":"2024-08-03T20:16:48.230+08:00"}
+{"dg-publish":true,"permalink":"/09/sinthome/","created":"2024-08-03T20:16:48.229+08:00","updated":"2024-08-03T20:16:48.230+08:00"}
 ---
 
 ![](https://pic4.zhimg.com/v2-26800dad4510b3651a9508a46c10894f_b.jpg)
