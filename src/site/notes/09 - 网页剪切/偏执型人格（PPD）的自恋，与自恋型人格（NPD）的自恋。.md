@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/偏执型人格（PPD）的自恋，与自恋型人格（NPD）的自恋。/","created":"2024-08-20T22:59:23.554+08:00","updated":"2024-08-20T22:59:23.555+08:00"}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/偏执型人格（PPD）的自恋，与自恋型人格（NPD）的自恋。/","created":"2024-08-20T22:59:23.554+08:00","updated":"2024-08-20T22:59:23.555+08:00","dg-note-properties":{"page-title":"偏执型人格（PPD）的自恋，与自恋型人格（NPD）的自恋。","url":"https://www.douban.com/group/topic/284985485/?_i=4163267OVWATpE","date":"2024-08-20 22:59:22"}}
 ---
 
 ### 一，偏执型人格障碍自恋吗？

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/MCP（Model Context Protocol） 协议介绍_mcp协议-CSDN博客/","title":"MCP（Model Context Protocol） 协议介绍_mcp协议-CSDN博客","tags":["网页剪切"],"created":"2025-03-18T00:17:12.296+08:00","updated":"2025-03-18T00:51:57.999+08:00"}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/MCP（Model Context Protocol） 协议介绍_mcp协议-CSDN博客/","title":"MCP（Model Context Protocol） 协议介绍_mcp协议-CSDN博客","tags":["网页剪切"],"created":"2025-03-18T00:17:12.296+08:00","updated":"2025-03-18T00:51:57.999+08:00","dg-note-properties":{"title":"MCP（Model Context Protocol） 协议介绍_mcp协议-CSDN博客","source":"https://blog.csdn.net/weixin_38358700/article/details/144087381","author":null,"published":null,"created":"2025-03-18","description":"文章浏览阅读9.9k次，点赞15次，收藏52次。模型上下文协议 (MCP) 是一种开放协议，可实现 LLM 应用程序与外部数据源和工具之间的无缝集成，无论是构建智能 IDE、扩展接口，还是创建 AI 工作流程，MCP 都提供了一种标准化方法，将 LLMs 与其所需的上下文连接起来。MCP Hosts: 通过 MCP 访问资源的程序，例如 Claude Desktop、IDE 或 AI 工具。: 与服务器保持 1:1 连接的协议客户端。: 每个轻量级程序都通过标准化模型上下文协议公开特定功能。_mcp协议","tags":["网页剪切"]}}
 ---
 
 更多新鲜技术资讯，欢迎关注公众号： [Linux开源先锋](https://mp.weixin.qq.com/s/Howw39n8qpbvLFoOqJ5NtQ)

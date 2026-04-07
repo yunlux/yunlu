@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/Full text of Abafi [The Son Of Aba].pdf (PDFy mirror)/","created":"2024-09-30T11:37:07.071+08:00","updated":"2024-09-30T11:37:07.072+08:00"}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/Full text of Abafi [The Son Of Aba].pdf (PDFy mirror)/","created":"2024-09-30T11:37:07.071+08:00","updated":"2024-09-30T11:37:07.072+08:00","dg-note-properties":{"page-title":"Full text of \"Abafi [The Son Of Aba].pdf (PDFy mirror)\"","url":"https://archive.org/stream/pdfy-YzbWuu0wO1__Jraz/Abafi%20%5BThe%20Son%20Of%20Aba%5D_djvu.txt","date":"2024-09-30 11:37:06"}}
 ---
 
 ## [See other formats](https://archive.org/details/pdfy-YzbWuu0wO1__Jraz)

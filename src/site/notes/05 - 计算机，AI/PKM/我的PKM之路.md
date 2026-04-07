@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05 - 计算机，AI/PKM/我的PKM之路/","created":"2024-06-10T10:56:50.005+08:00","updated":"2025-04-30T19:52:40.411+08:00"}
+{"dg-publish":true,"permalink":"/05 - 计算机，AI/PKM/我的PKM之路/","created":"2024-06-10T10:56:50.005+08:00","updated":"2025-04-30T19:52:40.411+08:00","dg-note-properties":{}}
 ---
 
 2014.8.21

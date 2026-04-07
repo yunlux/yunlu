@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/你开“心眼”了吗？_心智_一个人_Fonagy/","created":"2024-08-11T07:23:29.709+08:00","updated":"2024-08-18T12:41:39.391+08:00"}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/你开“心眼”了吗？_心智_一个人_Fonagy/","created":"2024-08-11T07:23:29.709+08:00","updated":"2024-08-18T12:41:39.391+08:00","dg-note-properties":{"page-title":"你开“心眼”了吗？_心智_一个人_Fonagy","url":"https://www.sohu.com/a/527423679_121124796","date":"2024-08-11 07:23:29"}}
 ---
 
 ![](https://p1.itc.cn/q_70/images03/20220305/3e92400992554a70b6f743709a7b53e3.jpeg)

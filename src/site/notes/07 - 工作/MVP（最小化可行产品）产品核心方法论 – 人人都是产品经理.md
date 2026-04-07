@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07 - 工作/MVP（最小化可行产品）产品核心方法论 – 人人都是产品经理/","title":"MVP（最小化可行产品）产品核心方法论 – 人人都是产品经理","tags":["网页剪切"],"created":"2025-05-02T01:06:44.877+08:00","updated":"2025-05-02T01:06:55.763+08:00"}
+{"dg-publish":true,"permalink":"/07 - 工作/MVP（最小化可行产品）产品核心方法论 – 人人都是产品经理/","title":"MVP（最小化可行产品）产品核心方法论 – 人人都是产品经理","tags":["网页剪切"],"created":"2025-05-02T01:06:44.877+08:00","updated":"2025-05-02T01:06:55.763+08:00","dg-note-properties":{"title":"MVP（最小化可行产品）产品核心方法论 – 人人都是产品经理","source":"https://www.woshipm.com/share/5911174.html","author":null,"published":"2023-10-02","created":"2025-05-02","description":"在当今快速变化的市场环境中，企业和创业者面临着巨大的压力和不确定性。在这种背景下，MVP（最小化可行产品）应运而生，成为一种重要的产品开发和管理策略。 1. MVP定义 MVP，全称为“最小化可行产品”，是一种产品开发策略，它的核心理念是：在最短的时间内，用最","tags":["网页剪切"]}}
 ---
 
 [![](https://image.woshipm.com/2023/04/28/01a92a6e-e58d-11ed-ba9f-00163e0b5ff3.jpg?x-oss-process=image/quality,q_80/format,webp)](https://ke.qidianla.com/courses/bcpm)

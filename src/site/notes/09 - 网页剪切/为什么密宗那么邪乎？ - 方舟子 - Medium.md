@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mizong","permalink":"/mizong/","created":"2024-06-28T04:38:31.264+08:00","updated":"2024-07-09T15:45:05.393+08:00"}
+{"dg-publish":true,"dg-permalink":"mizong","permalink":"/mizong/","created":"2024-06-28T04:38:31.264+08:00","updated":"2024-07-09T15:45:05.393+08:00","dg-note-properties":{"page-title":"为什么密宗那么邪乎？ - 方舟子 - Medium","url":"https://fangshimin.medium.com/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%86%E5%AE%97%E9%82%A3%E4%B9%88%E9%82%AA%E4%B9%8E-d4b68342f172","date":"2024-06-28 04:38:06"}}
 ---
 
 ## 为什么密宗那么邪乎？

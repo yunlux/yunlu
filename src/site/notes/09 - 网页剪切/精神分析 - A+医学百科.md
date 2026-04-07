@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/精神分析 - A+医学百科/","created":"2024-08-23T21:00:42.537+08:00","updated":"2024-08-23T21:00:42.538+08:00"}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/精神分析 - A+医学百科/","created":"2024-08-23T21:00:42.537+08:00","updated":"2024-08-23T21:00:42.538+08:00","dg-note-properties":{"page-title":"精神分析 - A+医学百科","url":"http://www.a-hospital.com/w/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90","date":"2024-08-23 21:00:41"}}
 ---
 
 跳转到： [导航](http://www.a-hospital.com/w/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90#mw-head), [搜索](http://www.a-hospital.com/w/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90#p-search)

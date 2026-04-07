@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08 - 思想碎片/Home - 阳志平的网志/","created":"2024-07-28T17:45:56.114+08:00","updated":"2024-07-28T17:45:56.114+08:00"}
+{"dg-publish":true,"permalink":"/08 - 思想碎片/Home - 阳志平的网志/","created":"2024-07-28T17:45:56.114+08:00","updated":"2024-07-28T17:45:56.114+08:00","dg-note-properties":{"page-title":"Home - 阳志平的网志","url":"https://www.yangzhiping.com/","date":"2024-07-28 17:45:55"}}
 ---
 
 ## 随笔

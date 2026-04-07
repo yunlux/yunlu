@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"incel-history","permalink":"/incel-history/","title":"女性当中也有incel吗？_哔哩哔哩_bilibili","tags":["网页剪切"],"created":"2025-04-27T20:58:46.779+08:00","updated":"2025-04-29T01:58:47.331+08:00"}
+{"dg-publish":true,"dg-permalink":"incel-history","permalink":"/incel-history/","title":"女性当中也有incel吗？_哔哩哔哩_bilibili","tags":["网页剪切"],"created":"2025-04-27T20:58:46.779+08:00","updated":"2025-04-29T01:58:47.331+08:00","dg-note-properties":{"title":"女性当中也有incel吗？_哔哩哔哩_bilibili","source":"https://www.bilibili.com/video/BV1kSZiYtEjV/?spm_id_from=333.788.comment.all.click&vd_source=c04e1cf5e369d7204a226f6b05f96f3d","author":["[[王阿姨AuntieWang]]"],"published":null,"created":"2025-04-27","description":"-, 视频播放量 8505、弹幕量 34、点赞数 536、投硬币枚数 143、收藏人数 183、转发人数 23, 视频作者 王阿姨AuntieWang, 作者简介 胡说八道的老阿姨。（其他平台同名），相关视频：我有权利得一个高质量老婆，没人爱是女人没有尽到她们的义务｜非自愿独身者的自我矛盾，女生怎么看“男生基本诉求”，无吸引力女性现状，【中字】被迫单身女性的逻辑 Femcel Logic，说别人incel的时候 想没想过 别人不想跟你谈恋爱，大型纪录片《B站平权男》，【现象透视】一份关于“孙吧男”的精神分析报告——男权主义者的癔症与信息结构暴力发生学：纯麦的？龟男？xxn？，《混沌少年时》13岁的incel，有毒的男子气概，两性专家峰哥：对另一个性别的攻击，反映了欺软怕硬的内核，中英字幕｜Mina Le｜揭示有害的女性主义｜何为femcel？｜抽离社交媒体的虚幻，让我们关注自我本身","tags":["网页剪切"]}}
 ---
 
 [yunlu.xyz/incel-history](https://yunlu.xyz/incel-history)

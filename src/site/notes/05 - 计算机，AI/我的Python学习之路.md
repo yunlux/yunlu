@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mypython","permalink":"/mypython/","created":"2024-06-10T05:15:41.334+08:00","updated":"2024-08-24T20:49:30.545+08:00"}
+{"dg-publish":true,"dg-permalink":"mypython","permalink":"/mypython/","created":"2024-06-10T05:15:41.334+08:00","updated":"2024-08-24T20:49:30.545+08:00","dg-note-properties":{}}
 ---
 
 

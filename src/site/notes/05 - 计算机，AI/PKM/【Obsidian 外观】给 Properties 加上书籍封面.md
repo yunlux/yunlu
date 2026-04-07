@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05 - 计算机，AI/PKM/【Obsidian 外观】给 Properties 加上书籍封面/","title":"【Obsidian 外观】给 Properties 加上书籍封面","tags":["网页剪切"],"created":"2025-04-08T04:43:01.199+08:00","updated":"2025-04-08T04:59:07.935+08:00"}
+{"dg-publish":true,"permalink":"/05 - 计算机，AI/PKM/【Obsidian 外观】给 Properties 加上书籍封面/","title":"【Obsidian 外观】给 Properties 加上书籍封面","tags":["网页剪切"],"created":"2025-04-08T04:43:01.199+08:00","updated":"2025-04-08T04:59:07.935+08:00","dg-note-properties":{"title":"【Obsidian 外观】给 Properties 加上书籍封面","source":"https://www.bilibili.com/opus/836558444158779409?spm_id_from=333.1387.0.0","author":["[[哔哩哔哩]]"],"published":null,"created":"2025-04-08","description":null,"tags":["网页剪切"]}}
 ---
 
 - [创作中心](https://member.bilibili.com/platform/home)

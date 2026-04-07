@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"痛与觉","permalink":"/痛与觉/","created":"2024-09-30T18:11:15.806+08:00","updated":"2024-09-30T18:13:03.626+08:00"}
+{"dg-publish":true,"dg-permalink":"痛与觉","permalink":"/痛与觉/","created":"2024-09-30T18:11:15.806+08:00","updated":"2024-09-30T18:13:03.626+08:00","dg-note-properties":{}}
 ---
 
 

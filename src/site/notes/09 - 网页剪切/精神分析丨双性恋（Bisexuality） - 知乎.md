@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/精神分析丨双性恋（Bisexuality） - 知乎/","created":"2024-08-03T20:18:31.613+08:00","updated":"2024-08-03T20:18:31.614+08:00"}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/精神分析丨双性恋（Bisexuality） - 知乎/","created":"2024-08-03T20:18:31.613+08:00","updated":"2024-08-03T20:18:31.614+08:00","dg-note-properties":{"page-title":"精神分析丨双性恋（Bisexuality） - 知乎","url":"https://zhuanlan.zhihu.com/p/691254358","date":"2024-08-03 20:18:30"}}
 ---
 
 ![](https://pic4.zhimg.com/v2-a7b5c3c4eaeb321e4e16bdcc8d2eecd7_b.jpg)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/MCP (For Server Developers)/","title":"For Server Developers","tags":["网页剪切"],"created":"2025-04-23T15:22:31.319+08:00","updated":"2025-04-23T15:23:01.320+08:00"}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/MCP (For Server Developers)/","title":"For Server Developers","tags":["网页剪切"],"created":"2025-04-23T15:22:31.319+08:00","updated":"2025-04-23T15:23:01.320+08:00","dg-note-properties":{"title":"For Server Developers","source":"https://modelcontextprotocol.io/quickstart/server#what-we%E2%80%99ll-be-building","author":["[[Model Context Protocol]]"],"published":null,"created":"2025-04-23","description":"Get started building your own server to use in Claude for Desktop and other clients.","tags":["网页剪切"]}}
 ---
 
 In this tutorial, we’ll build a simple MCP weather server and connect it to a host, Claude for Desktop. We’ll start with a basic setup, and then progress to more complex use cases.  

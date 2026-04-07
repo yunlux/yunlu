@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/肠脑轴 Gut–brain axis 脑肠连接 肠脑心理学/","title":"肠脑轴 Gut–brain axis 脑肠连接 肠脑心理学","tags":["网页剪切"],"created":"2025-03-28T03:13:16.623+08:00","updated":"2025-03-28T03:13:28.950+08:00"}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/肠脑轴 Gut–brain axis 脑肠连接 肠脑心理学/","title":"肠脑轴 Gut–brain axis 脑肠连接 肠脑心理学","tags":["网页剪切"],"created":"2025-03-28T03:13:16.623+08:00","updated":"2025-03-28T03:13:28.950+08:00","dg-note-properties":{"title":"肠脑轴 Gut–brain axis 脑肠连接 肠脑心理学","source":"https://zhuanlan.zhihu.com/p/157903907","author":["[[知乎专栏]]"],"published":null,"created":"2025-03-28","description":"肠脑轴 Gut–brain axis的肠-脑轴是生物化学信号，是以之间发生胃肠道（GI道）和中枢神经系统（CNS）。术语“肠-脑轴”有时也指肠道菌群在相互作用中的作用，而术语“ 微生物-肠-脑（MGB或BGM）轴”明确包括肠道菌…","tags":["网页剪切"]}}
 ---
 
 ## 肠脑轴 Gut–brain axis

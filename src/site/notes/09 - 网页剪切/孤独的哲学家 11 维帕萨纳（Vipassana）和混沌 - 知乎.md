@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/孤独的哲学家 11 维帕萨纳（Vipassana）和混沌 - 知乎/","created":"2024-08-11T21:26:49.415+08:00","updated":"2024-08-11T21:26:49.415+08:00"}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/孤独的哲学家 11 维帕萨纳（Vipassana）和混沌 - 知乎/","created":"2024-08-11T21:26:49.415+08:00","updated":"2024-08-11T21:26:49.415+08:00","dg-note-properties":{"page-title":"孤独的哲学家 11 维帕萨纳（Vipassana）和混沌 - 知乎","url":"https://zhuanlan.zhihu.com/p/649781966","date":"2024-08-11 21:26:48"}}
 ---
 
 **Überwinde dein Wollen**

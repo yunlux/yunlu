@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"cpp","permalink":"/cpp/","created":"2024-09-26T18:25:32.213+08:00","updated":"2024-09-26T18:27:24.191+08:00"}
+{"dg-publish":true,"dg-permalink":"cpp","permalink":"/cpp/","created":"2024-09-26T18:25:32.213+08:00","updated":"2024-09-26T18:27:24.191+08:00","dg-note-properties":{"page-title":"Learn C++ in Y Minutes","url":"https://learnxinyminutes.com/docs/zh-cn/c++-cn/","date":"2024-09-26 18:25:31"}}
 ---
 
 

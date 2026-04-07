@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/Arduino + 按键开关实现简单的计数器 – Arduino 实验室/","created":"2024-09-16T00:53:12.010+08:00","updated":"2024-09-16T00:54:51.660+08:00"}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/Arduino + 按键开关实现简单的计数器 – Arduino 实验室/","created":"2024-09-16T00:53:12.010+08:00","updated":"2024-09-16T00:54:51.660+08:00","dg-note-properties":{"page-title":"Arduino + 按键开关实现简单的计数器 – Arduino 实验室","url":"https://arduino.nxez.com/2018/07/07/arduino-pushbutton-switch-for-simple-counter.html?variant=zh-cn","date":"2024-09-16 00:54:51"}}
 ---
 
 本实验用以下材料，简单实现一个按键次数的计数器，统计按键被按下的次数，现实在串口输出栏。  
