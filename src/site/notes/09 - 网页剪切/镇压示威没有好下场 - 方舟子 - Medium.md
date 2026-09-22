@@ -1,15 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/镇压示威没有好下场 - 方舟子 - Medium/","created":"2024-06-28T04:49:39.003+08:00","updated":"2024-06-28T04:52:35.201+08:00","dg-note-properties":{"page-title":"镇压示威没有好下场 - 方舟子 - Medium","url":"https://fangshimin.medium.com/%E9%95%87%E5%8E%8B%E7%A4%BA%E5%A8%81%E6%B2%A1%E6%9C%89%E5%A5%BD%E4%B8%8B%E5%9C%BA-7a806fcc1240","date":"2024-06-28 04:49:38"}}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/镇压示威没有好下场 - 方舟子 - Medium/","created":"2024-06-28T04:49:39.003+08:00","updated":"2026-08-15T07:57:34.656+08:00","dg-note-properties":{"page-title":"镇压示威没有好下场 - 方舟子 - Medium","url":"https://fangshimin.medium.com/%E9%95%87%E5%8E%8B%E7%A4%BA%E5%A8%81%E6%B2%A1%E6%9C%89%E5%A5%BD%E4%B8%8B%E5%9C%BA-7a806fcc1240","date":"2024-06-28 04:49:38"}}
 ---
 
 ## 镇压示威没有好下场
 
 [
-
-![方舟子](https://miro.medium.com/v2/resize:fill:88:88/0*8_c2cIGhU7X2_b3L.png)
-
-
-
 ](https://fangshimin.medium.com/?source=post_page-----7a806fcc1240--------------------------------)
 
 在乔治·弗洛依德之死引发的大规模示威抗议期间，川普指责地方政府维持治安不力，扬言要派军队去平息骚乱、镇压“暴徒”。对此有不少华人表示坚决支持。他们说：我们支持和平示威，但是反对骚乱；既然这场示威已经变成了骚乱，那么就应该派兵坚决地镇压。

@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/为什么说MCP协议的价值被远远被低估？一文带你全面了解MCP协议，附上产品验证技术可行性案例！ MCP 有可能解决过去个 - 掘金/","title":"为什么说MCP协议的价值被远远被低估？一文带你全面了解MCP协议，附上产品验证技术可行性案例！ MCP 有可能解决过去个 - 掘金","tags":["网页剪切"],"created":"2026-08-14T06:21:44.000+08:00","updated":"2026-08-14T06:21:44.000+08:00","dg-note-properties":{"title":"为什么说MCP协议的价值被远远被低估？一文带你全面了解MCP协议，附上产品验证技术可行性案例！ MCP 有可能解决过去个 - 掘金","source":"https://juejin.cn/post/7457504814109622298","author":null,"published":"2025-01-08","created":"2025-03-18","description":"一文带你全面了解MCP协议，附上产品验证技术可行性案例！ MCP 有可能解决过去个人电脑、企业、互联网数据割裂，互为信息孤岛的局面，迎来一个多系统互联互操作的繁荣生态。","tags":["网页剪切"]}}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/为什么说MCP协议的价值被远远被低估？一文带你全面了解MCP协议，附上产品验证技术可行性案例！ MCP 有可能解决过去个 - 掘金/","title":"为什么说MCP协议的价值被远远被低估？一文带你全面了解MCP协议，附上产品验证技术可行性案例！ MCP 有可能解决过去个 - 掘金","tags":["网页剪切"],"created":"2026-08-14T06:21:44.000+08:00","updated":"2026-08-15T07:57:33.515+08:00","dg-note-properties":{"title":"为什么说MCP协议的价值被远远被低估？一文带你全面了解MCP协议，附上产品验证技术可行性案例！ MCP 有可能解决过去个 - 掘金","source":"https://juejin.cn/post/7457504814109622298","author":null,"published":"2025-01-08","created":"2025-03-18","description":"一文带你全面了解MCP协议，附上产品验证技术可行性案例！ MCP 有可能解决过去个人电脑、企业、互联网数据割裂，互为信息孤岛的局面，迎来一个多系统互联互操作的繁荣生态。","tags":["网页剪切"]}}
 ---
 
 [极客见识](https://juejin.cn/user/3305544549144932/posts)
-
-![](https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/img/banner.a5c9f88.jpg)
-
 2024年11月25日，Claude 公司提出并开源的一项新标准协议 MCP，我觉着这是一件很重要的大事，关注的人却不多，它的价值被大家远远低估了。
 
 因为 MCP 有可能解决过去个人电脑、企业、互联网数据割裂，互为信息孤岛的局面，迎来一个多系统互联互操作的繁荣生态。
@@ -13,9 +10,6 @@
 价值很大很大！文章后面有彩蛋喔！
 
 这篇文章试着带大家从 MCP 是什么、价值、与 Function Calling 的区别、数据安全以及工作原理，让大家更全面了解 MCP 的潜在价值。
-
-![image.png](https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c08b0ef11f9444b8ade1124e0221f2c3~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5p6B5a6i6KeB6K-G:q75.awebp?rk3s=f64ab15b&x-expires=1742390621&x-signature=DCsT%2Bc0nyg%2BD1j%2BPZH3K8d8Fvpk%3D)
-
 **01 什么是 MCP**
 
 官方是这样介绍的：
@@ -49,9 +43,6 @@ MCP 是一种开放标准，可让开发人员在其数据源和 AI 驱动的工
 \- Function Calling，函数调用
 
 这两种技术都旨在增强 AI 模型与外部数据的交互能力，但 MCP 不止可以增强 AI 模型，还可以时其他的应用系统。
-
-![image.png](https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0b0989ecdfa54ca996f0fcecb2afa2df~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5p6B5a6i6KeB6K-G:q75.awebp?rk3s=f64ab15b&x-expires=1742390621&x-signature=PVyV%2BbEKN3xNlMEHXOeGKgEMnkM%3D)
-
 **MCP（Model Context Protocol）：**
 
 MCP 协议是由 Anthropic 提出的，一种更为高级和灵活的交互范式，MCP 被设计为一个开放的、标准化的协议，它不仅支持 AI 模型与单个数据源或功能连接，还能实现与多个不同的数据源和服务之间的无缝集成。
@@ -121,9 +112,6 @@ MCP 协议采用了一种独特的架构设计，它将 LLM 与资源之间的�
 - \*\*处理请求：\*\*服务器接收到请求后，解析请求内容，执行相应的操作（如查询数据库、读取文件等）。
 - \*\*返回结果：\*\*服务器将处理结果封装成响应消息，发送回客户端。
 - \*\*断开连接：\*\*任务完成后，客户端可以主动关闭连接或等待服务器超时关闭。
-
-![image.png](https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/aa771f7da39242a8a321c84b2b7c0dc1~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5p6B5a6i6KeB6K-G:q75.awebp?rk3s=f64ab15b&x-expires=1742390621&x-signature=pMfXofgZRTWIRy7rv2jwEfQ4NqY%3D)
-
 **1、核心架构**
 
 MCP协议遵循客户端-服务器架构，其中包含三个主要组件：
@@ -176,9 +164,6 @@ MCP定义了4类消息类型，以支持复杂的交互流程。
 - 关于 MCP 最近有哪些讨论？
 - idoubi 在哪些群分享了什么内容？
 - AI-Native 群最活跃的5个用户和关心的话题是什么？
-
-![image.png](https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8235d96020db424495c7828db424f2cf~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5p6B5a6i6KeB6K-G:q75.awebp?rk3s=f64ab15b&x-expires=1742390621&x-signature=hx3UkrU0ldlR62UfIkmf7Xr29Js%3D)
-
 比起去年的实现方案，用 MCP Server 来实现 ChatSum 的功能有一些不同点：
 
 - 消息存储和查询总结完全解耦，灵活性更高。
@@ -194,9 +179,6 @@ GitHub 地址：
 [github.com/chatmcp/mcp…](https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fchatmcp%2Fmcp-server-chatsum "https://github.com/chatmcp/mcp-server-chatsum")
 
 欢迎大家自行部署体验。
-
-![image.png](https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/55d725f41db3480d9d564e7d74f2874b~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5p6B5a6i6KeB6K-G:q75.awebp?rk3s=f64ab15b&x-expires=1742390621&x-signature=w7KHTNjdQukp%2FyJzgqeNcxV5o1k%3D)
-
 **Last but not least**
 
 MCP 协议重新定义了各个生态系统之间互联的一个新风向标，解决了过去个人电脑、企业、互联网之间互为信息孤岛的问题，让全世界的数据割裂局面有可能变成一个欣欣向荣的繁荣生态。

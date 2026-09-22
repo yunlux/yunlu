@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/Arduino Nano - Button - LED  Arduino Nano Tutorial/","created":"2024-09-16T00:59:18.083+08:00","updated":"2024-09-23T13:33:06.453+08:00","dg-note-properties":{"page-title":"Arduino Nano - Button - LED | Arduino Nano Tutorial","url":"https://newbiely.com/tutorials/arduino-nano/arduino-nano-button-led","date":"2024-09-23 13:33:05"}}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/Arduino Nano - Button - LED  Arduino Nano Tutorial/","created":"2024-09-16T00:59:18.083+08:00","updated":"2026-08-15T07:57:33.360+08:00","dg-note-properties":{"page-title":"Arduino Nano - Button - LED | Arduino Nano Tutorial","url":"https://newbiely.com/tutorials/arduino-nano/arduino-nano-button-led","date":"2024-09-23 13:33:05"}}
 ---
 
 This tutorial instructs you how to use the Arduino Nano and button to control the LED. We will learn two different applications:
@@ -20,7 +20,49 @@ This tutorial instructs you how to use the Arduino Nano and button to control th
 
 In the **Application 2**, We need to debounce the button to make sure it works properly. We'll figure out why it's important by comparing how the LED behaves when we use the Arduino code with and without debouncing the button.
 
-<table><tbody><tr><td>1</td><td>×</td><td><a href="https://amzn.to/3jZdvxa" target="_blank">Arduino Nano</a></td><td><i></i></td></tr><tr><td>1</td><td>×</td><td><a href="https://amzn.to/3rCstmt" target="_blank">USB A to Mini-B USB cable</a></td><td><i></i></td></tr><tr><td>1</td><td>×</td><td><a href="https://amzn.to/3KJh5fl" target="_blank">Breadboard-mount Button with Cap</a></td><td><i></i></td></tr><tr><td>1</td><td>×</td><td><a href="https://amzn.to/3YCqHQ9" target="_blank">Breadboard-mount Button Kit</a></td><td><i></i></td></tr><tr><td>1</td><td>×</td><td><a href="https://amzn.to/4ag4oTL" target="_blank">Panel-mount Push Button</a></td><td><i></i></td></tr><tr><td>1</td><td>×</td><td><a href="https://amzn.to/43kslGm" target="_blank">LED</a></td><td><i></i></td></tr><tr><td>1</td><td>×</td><td><a href="https://amzn.to/3Y9JrmK" target="_blank">220 ohm resistor</a></td><td><i></i></td></tr><tr><td>1</td><td>×</td><td><a href="https://amzn.to/46Y5TnT" target="_blank">Breadboard</a></td><td><i></i></td></tr><tr><td>1</td><td>×</td><td><a href="https://amzn.to/3RuHEag" target="_blank">Jumper Wires</a></td><td><i></i></td></tr><tr><td>1</td><td>×</td><td><a href="https://amzn.to/3NeaCbW" target="_blank">(Optional) 9V Power Adapter for Arduino Nano</a></td><td><i></i></td></tr><tr><td>1</td><td>×</td><td><a href="https://amzn.to/49ditAq" target="_blank">(Recommended) Screw Terminal Expansion Board for Arduino Nano</a></td><td><i></i></td></tr></tbody></table>
+1
+×
+Arduino Nano
+
+1
+×
+USB A to Mini-B USB cable
+
+1
+×
+Breadboard-mount Button with Cap
+
+1
+×
+Breadboard-mount Button Kit
+
+1
+×
+Panel-mount Push Button
+
+1
+×
+LED
+
+1
+×
+220 ohm resistor
+
+1
+×
+Breadboard
+
+1
+×
+Jumper Wires
+
+1
+×
+(Optional) 9V Power Adapter for Arduino Nano
+
+1
+×
+(Recommended) Screw Terminal Expansion Board for Arduino Nano
 
 Or you can buy the following sensor kits:
 
@@ -32,9 +74,6 @@ links. We may receive a commission for any purchases made through these links at
 Additionally, some of these links are for products from our own brand, **DIYables**.
 
 If you are unfamiliar with LED and button (including pinout, operation, and programming), the following tutorials can help:
-
-![The wiring diagram between Arduino Nano and Button LED](https://newbiely.com/images/tutorial/arduino-nano-button-led-wiring-diagram.jpg)
-
 This image is created using [Fritzing](http://fritzing.org/). Click to enlarge image
 
 **
@@ -49,9 +88,6 @@ const int BUTTON\_PIN = 2; const int LED\_PIN = 5; int button\_state = 0; void s
     
 -   Click the Upload button on the Arduino IDE to compile and upload the code to the Arduino Nano.
     
-
-![Arduino IDE Upload Code](https://newbiely.com/images/tutorial/how-to-upload-code-to-arduino-nano.jpg)
-
 -   Press the button and hold it for a few seconds.
     
 -   Check out the
@@ -96,7 +132,7 @@ Why is debouncing necessary? See the [Arduino Nano - Button Debounce tutorial](h
 
 **
 
-#include <ezButton.h> const int BUTTON\_PIN = 2; const int LED\_PIN = 5; ezButton button(BUTTON\_PIN); int led\_state = LOW; void setup() { Serial.begin(9600); pinMode(LED\_PIN, OUTPUT); button.setDebounceTime(50); } void loop() { button.loop(); if(button.isPressed()) { Serial.println("The button is pressed"); led\_state = !led\_state; digitalWrite(LED\_PIN, led\_state); } }
+#include  const int BUTTON\_PIN = 2; const int LED\_PIN = 5; ezButton button(BUTTON\_PIN); int led\_state = LOW; void setup() { Serial.begin(9600); pinMode(LED\_PIN, OUTPUT); button.setDebounceTime(50); } void loop() { button.loop(); if(button.isPressed()) { Serial.println("The button is pressed"); led\_state = !led\_state; digitalWrite(LED\_PIN, led\_state); } }
 
 -   Install the ezButton library. Refer to [How To](https://arduinogetstarted.com/tutorials/arduino-button-library#content_how_to_install_library) for instructions.
     

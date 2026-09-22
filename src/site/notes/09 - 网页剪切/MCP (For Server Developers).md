@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/MCP (For Server Developers)/","title":"For Server Developers","tags":["网页剪切"],"created":"2025-04-23T15:22:31.319+08:00","updated":"2025-04-23T15:23:01.320+08:00","dg-note-properties":{"title":"For Server Developers","source":"https://modelcontextprotocol.io/quickstart/server#what-we%E2%80%99ll-be-building","author":["[[Model Context Protocol]]"],"published":null,"created":"2025-04-23","description":"Get started building your own server to use in Claude for Desktop and other clients.","tags":["网页剪切"]}}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/MCP (For Server Developers)/","title":"For Server Developers","tags":["网页剪切"],"created":"2025-04-23T15:22:31.319+08:00","updated":"2026-08-15T07:57:33.391+08:00","dg-note-properties":{"title":"For Server Developers","source":"https://modelcontextprotocol.io/quickstart/server#what-we%E2%80%99ll-be-building","author":["[[Model Context Protocol]]"],"published":null,"created":"2025-04-23","description":"Get started building your own server to use in Claude for Desktop and other clients.","tags":["网页剪切"]}}
 ---
 
 In this tutorial, we’ll build a simple MCP weather server and connect it to a host, Claude for Desktop. We’ll start with a basic setup, and then progress to more complex use cases.  
@@ -12,9 +12,6 @@ Many LLMs do not currently have the ability to fetch the forecast and severe wea
 
 We’ll build a server that exposes two tools: `get-alerts` and `get-forecast`. Then we’ll connect the server to an MCP host (in this case, Claude for Desktop):  
 我们将构建一个服务器，该服务器公开两个工具： `get-alerts` 和 `get-forecast` 。然后我们将服务器连接到 MCP 主机（在这种情况下，是 Claude 桌面版）：
-
-![](https://mintlify.s3.us-west-1.amazonaws.com/mcp/images/weather-alerts.png) ![](https://mintlify.s3.us-west-1.amazonaws.com/mcp/images/current-weather.png)
-
 Servers can connect to any client. We’ve chosen Claude for Desktop here for simplicity, but we also have guides on [building your own client](https://modelcontextprotocol.io/quickstart/client) as well as a [list of other clients here](https://modelcontextprotocol.io/clients).  
 服务器可以连接到任何客户端。在这里我们选择了 Claude 桌面版以简化操作，但我们也有关于构建您自己的客户端以及其他客户端列表的指南。
 
@@ -196,14 +193,8 @@ Save the file, and restart **Claude for Desktop**.
 
 Let’s make sure Claude for Desktop is picking up the two tools we’ve exposed in our `weather` server. You can do this by looking for the hammer icon:  
 确保 Claude for Desktop 正在获取我们在 `weather` 服务器中暴露的两个工具。您可以通过查找锤子 图标来完成此操作：
-
-![](https://mintlify.s3.us-west-1.amazonaws.com/mcp/images/visual-indicator-mcp-tools.png)
-
 After clicking on the hammer icon, you should see two tools listed:  
 点击锤子图标后，您应该看到列出两个工具：
-
-![](https://mintlify.s3.us-west-1.amazonaws.com/mcp/images/available-mcp-tools.png)
-
 If your server isn’t being picked up by Claude for Desktop, proceed to the [Troubleshooting](https://modelcontextprotocol.io/quickstart/server#troubleshooting) section for debugging tips.  
 如果您的服务器未被 Claude for Desktop 检测到，请转到故障排除部分以获取调试提示。
 
@@ -214,8 +205,6 @@ If the hammer icon has shown up, you can now test your server by running the fol
 	萨克拉门托的天气怎么样？
 - What are the active weather alerts in Texas?  
 	德克萨斯州有哪些正在生效的天气警报？
-![](https://mintlify.s3.us-west-1.amazonaws.com/mcp/images/current-weather.png) ![](https://mintlify.s3.us-west-1.amazonaws.com/mcp/images/weather-alerts.png)
-
 Since this is the US National Weather service, the queries will only work for US locations.  
 由于这是美国国家气象服务，查询将仅适用于美国地区。
 

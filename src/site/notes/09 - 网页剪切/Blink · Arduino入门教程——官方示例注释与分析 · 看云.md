@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/Blink · Arduino入门教程——官方示例注释与分析 · 看云/","created":"2024-09-23T13:32:57.474+08:00","updated":"2024-09-23T13:32:57.474+08:00","dg-note-properties":{"page-title":"Blink · Arduino入门教程——官方示例注释与分析 · 看云","url":"https://www.kancloud.cn/yundantiankong/arduino_examples/431622","date":"2024-09-23 13:32:56"}}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/Blink · Arduino入门教程——官方示例注释与分析 · 看云/","created":"2024-09-23T13:32:57.474+08:00","updated":"2026-08-15T07:57:33.369+08:00","dg-note-properties":{"page-title":"Blink · Arduino入门教程——官方示例注释与分析 · 看云","url":"https://www.kancloud.cn/yundantiankong/arduino_examples/431622","date":"2024-09-23 13:32:56"}}
 ---
 
 ## 闪烁的LED
@@ -16,16 +16,12 @@
 
 连接**电阻**的一端到Arduino板的13号引脚，将LED较长的一端（叫作阳极，电流流入的地方）连接到电阻的另一端。   
 连接LED较短的一端到Arduino GND接口。连线如下图所示。  
-![](https://box.kancloud.cn/61a134c719e0c975f0250d1f1be44bb4_676x711.png)  
 大多数Arduino板已经有一个板载LED灯和13引脚相连。   
 如果你没有连接外部的小灯并在板上运行了这个工程，你应该可以看到板载的LED闪烁。
 
 和LED搭配的电阻值可能并非是220Ω；LED和1kΩ以下的电阻搭配都会亮起。
 
 ### 原理图
-
-![](https://box.kancloud.cn/cca2e650ca0fd51ab601b6ea83b53c47_452x531.png)
-
 ### 代码
 
 在搭好电路之后，将Arduino或Genuino板插入电脑并启动Arduino IDE，然后将这段代码输入。也可从**文件>例子>01.Basics/Blink**(File/Examples/01.Basics/Blink )中找到。

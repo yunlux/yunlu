@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/Full text of Abafi [The Son Of Aba].pdf (PDFy mirror)/","created":"2024-09-30T11:37:07.071+08:00","updated":"2024-09-30T11:37:07.072+08:00","dg-note-properties":{"page-title":"Full text of \"Abafi [The Son Of Aba].pdf (PDFy mirror)\"","url":"https://archive.org/stream/pdfy-YzbWuu0wO1__Jraz/Abafi%20%5BThe%20Son%20Of%20Aba%5D_djvu.txt","date":"2024-09-30 11:37:06"}}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/Full text of Abafi [The Son Of Aba].pdf (PDFy mirror)/","created":"2026-08-14T06:23:04.000+08:00","updated":"2026-08-15T07:52:05.366+08:00","dg-note-properties":{"page-title":"Full text of \"Abafi [The Son Of Aba].pdf (PDFy mirror)\"","url":"https://archive.org/stream/pdfy-YzbWuu0wO1__Jraz/Abafi%20%5BThe%20Son%20Of%20Aba%5D_djvu.txt","date":"2024-09-30 11:37:06"}}
 ---
 
 ## [See other formats](https://archive.org/details/pdfy-YzbWuu0wO1__Jraz)
@@ -11,8 +11,6 @@ Abafi
 
 The text will be looked after 
 Thomas Zsuzsanna 
-
-
 
 Page 2 
 
@@ -76,11 +74,7 @@ A word or two of the moral effect
 
 And Poetic justice batch EXTENSION AS 
 
-
-
 Josika TO SHARE THE Abafi 
-
-
 
 Page 3 
 
@@ -100,8 +94,6 @@ earnest direction quite different from each other in a story positions through-
 accompanied, where more true than spent, and where both large readership, both 
 miveltebb- working my readers expect. - If this was correct, tactile; Could be good if 
 intention: the audience will judge. 
-
-
 
 Page 4 
 
@@ -158,8 +150,6 @@ smoke
 
 remote area. Because it does not present a fire place and fire pot, not around it's busy housekeeper not 
 
-
-
 likeness; only one or two pots, wooden spoons and stuff like that depended more beautiful mess walls. 
 The 
 
@@ -190,8 +180,6 @@ Her tall, lean, agile old, sloe eyes dark and very smart face.
 What are the usual folds carved sixty years on, sat on the hearth fire place; dark blue head scarf 
 Foden long bracket down to, at the top of his shirt, which betray contaminate the approach of the 
 Sabbath, 
-
-
 
 Page 5 
 
@@ -233,8 +221,6 @@ years; nine
 green button dolmanyodra it difficult to fill out; yours if Zsiga elokerited. 
 The house looked grinning heir money. - So be it! - Took up about hat. - 1 
 
-
-
 I'm going saddled the gray, but if you do not mind, do not cause me sissy! 
 
 The old konnyebbedni appearances. While his son has gone back to the fireplace hearth took place, 
@@ -273,8 +259,6 @@ impressed
 spirit them; Supposing he himself, partly vonzodasbol charming child, which is onkeny- 
 failure caused, partly haszonvagybol, from which he did not go all the way: this kivanatoknak 
 kitelhetoleg meet. 
-
-
 
 6 
 
@@ -315,8 +299,6 @@ although it is not
 megerdemleni or not reciprocate consciousness. Furthermore, can suffer harm the welfare of the small 
 By intestines, although sometimes squinting eyes resting on it, and the child's mother suspected 
 not lose sight of the gifts; but nevertheless was more bitter than permissive. 
-
-
 
 where we can be alone with him. 
 
@@ -370,8 +352,6 @@ really should lose, tears and heart rate Haga lashes; together in hands gornyede
 
 One of the grave situation crate sitting quietly, sometimes singing hallatva complaints. 
 
-
-
 Page 7 
 
 7 
@@ -406,8 +386,6 @@ which long, more
 Retba out and two handsome, rich pans roll forming rabbit hair down atfonva scarlet ribbon; 
 short waist, body needing mentecske Foden dark green, narrow, small and rare lanckesziilettel 
 buttons. During this difficult selyemszovetii skirt reached down well above the ankle, and the small 
-
-
 
 narrow 
 
@@ -464,8 +442,6 @@ providing
 
 protecting the other. - Mercy! - Said the old man came rebego voice. - Mercy, ma'am! 
 
-
-
 8 
 
 - Where is my son? - Continuing deep erctelen voice of the woman who burst into flames of anger on 
@@ -488,8 +464,6 @@ dangerous than himself Osszeszorita hands. - God - say - terrible, but just as
 said Lord up there or here below, gentle or terrible, hear me, if you are! If you do not 
 mighty notion: give my son back to life and take it! Or - said he jumped off his dagger 
 
-
-
 Stuck belt from - if grabber or if wages irgalmazsz: speak, give a sign, like to many lives 
 This disambig, ten, a hundred, a thousand? - Said he barely understandable vegigomolva the floor. 
 The old man stood indescribable horror, Tuda not speak, so he saw this horrible creation 
@@ -503,8 +477,6 @@ where? -
 
 inquired rushing to the door, which was found closed, and seized it, shook his enormous power to 
 immediately highlighted the comers, fell upon him, and felretaszitvan, rushed out of the hole. 
-
-
 
 9 
 
@@ -558,8 +530,6 @@ silver sword hanging countless times and patched together -kotozott kardszijan.
 The knight half sleepy, half-drunk, but none so much that you would joltehetetlen; 
 closer to home in terms of rich people similar to the so-called lost child. Szunnyadozva s 
 
-
-
 sometimes moving his head up and picking up in front of the road, watching the little up front and in 
 about beauty 
 
@@ -585,8 +555,6 @@ What could the frenzy of our mobile convergence. The horse snorting protested lo
 there 
 
 Arriving, harshly attacked the child, why scare nyogesivel horse, but better achieved 
-
-
 
 10 
 
@@ -637,8 +605,6 @@ near you, or rather, he cried out to heaven visite raised his voice choked and f
 hands - Good lord, for God's sake, do not leave me here! For God's sake, oh, do not leave me here! - 
 The knight departed. 
 
-
-
 He seemed uncomfortable vonasaibol face, as if boredom would be unfortunate esdek- 
 
 Rent. The child was silent, releasing himself and pushed his face sobbing little hallhatolag land; 
@@ -679,8 +645,6 @@ the forest
 wrong, he began to look for so acting stray farther, farther, the night scared and despair 
 Among the woods spent barely Tuda squirm until the next day, where the knight found. 
 
-
-
 Page 11 
 
 11 
@@ -716,8 +680,6 @@ kiozonlesenek near heat or sluggish, it was quite a character in the previous
 sorrow, pain, despair and boredom of undulation. 
 
 Her passion for everything that was joy too; the knight's heart squeezed, which is 
-
-
 
 usual equanimity at first, and then the fire of the world should not be sown thanks to better tax 
 view, however, adopted a harsh favor. Cried, laughed the woman, believed to crazy, you see it now 
@@ -767,8 +729,6 @@ time had wanted to leave, but the nice lady who requests marasztanak. The kerdet
 
 Oliver! The name is not worth much - say harsh laugh - as much as his master! 
 
-
-
 Page 12 
 
 12 
@@ -801,8 +761,6 @@ Then the little Zsiga said:
 - My mother, my breasts are very sore in the wound. 
 She jumped up suddenly, and the child's bedside grown. 
 
-
-
 - Where - inquired elhalavanyodva - dear little angel? 
 The child violently clamping fejecskejet mother's bosom. 
 
@@ -821,8 +779,6 @@ each other? - Say this is freaking neck. - Yes, yes - replied the other - we can
 While still spoken in a whisper, not a small woman tanner's chagrin, who gladly hear 
 
 have what you are talking. After fierce horse sat Abafi handshake, a beautiful woman's son in a hurry. 
-
-
 
 13 
 
@@ -883,8 +839,6 @@ long
 
 disappeared while under the table and not IVA pals, especially her drink without harm. 
 
-
-
 Physical exercise in addition to rare Mulan: spear spike dare bet per blow; either 
 
 recently come into vogue, but still rare ravaszos weapon or the szokottabb kanocossal 
@@ -913,8 +867,6 @@ finally, if the judge allows the secret, yet it is certainly no good purpose, no
 stems from the perception, but for other reasons: for example, compares the good and bad, what he did, 
 
 and 
-
-
 
 14 
 
@@ -975,8 +927,6 @@ drink, do not stack first, no hunting, no ride.
 This internal sfrife bosom, these two types of divorce between good and bad based on certain stimuli 
 took a job 
 
-
-
 with fish in it. And so he remained rare onbiralatlan; often, perhaps usually worse stimuli 
 
 aljasb or dispute the first position; first of all bat without any rebuttal late; but 
@@ -1008,8 +958,6 @@ and
 
 The difference between bad and put it first to feel this strongly implies that internal meg- 
 rest and this onjutalmat repeatedly eleidezni. 
-
-
 
 Page 15 
 
@@ -1046,8 +994,6 @@ storyline - and
 
 perhaps it is better to be vilagosb idea. 
 
-
-
 Page 16 
 
 16 
@@ -1062,8 +1008,6 @@ with all the city trained harder to raise, collect, as each gyultukorbe
 
 color beam, while those images merge, which is true, interesting. But if this is difficult and the 
 kivihetlen almost full sense of the word: a landscape even more difficult or city 
-
-
 
 arculatjat conjure, that is, to put into words the impression that the quality of a place 
 
@@ -1132,8 +1076,6 @@ dense forests surrounding hills were badgers into the sky. The Little Somes huge
 bowed meadows, fields and through groves and shimmering whole process fodetlen, 
 was seen. The robust nature blooming around it ifiu green of romantic charm sprinkled around. 
 
-
-
 Page 17 
 
 17 
@@ -1143,8 +1085,6 @@ building not yet appeared.
 
 Kolosvar than all the fenced cities, was peculiar look in days of yore. Merely s 
 paizskent threatening brow outstretched konyoklottek dark bricks walls erected around 
-
-
 
 rovatkos whose collar was not defenseless and start does not work, as the present. The wide trench 
 walls 
@@ -1218,8 +1158,6 @@ hand
 
 armed with a dirty cloth. 
 
-
-
 Page 18 
 
 18 
@@ -1267,8 +1205,6 @@ The ride continues, shaking his head. The old man stared thoughtfully down the s
 
 - Who were you can see - said the other - for eight days since I got here strip? 
 
-
-
 FA CONSTITUTION 
 
 Name of the scaffold. 
@@ -1301,8 +1237,6 @@ One of these three men were monasteries Petersburg undoubtedly wealthy citizens.
 mentee light gray, black sheepskin fur and black kesziilettel, ovig was low, 
 
 wide stature unbuttoned; the gender csakosiivegnek, stitched into the back way of kacsafark 
-
-
 
 ostrich feathers and degree sex stick in his hand. His face was of a sound, healthy moon images 
 of which show a comfortable life; right side of the nose and stood blushing copper report 
@@ -1338,8 +1272,6 @@ It was more than just spark hole without any device, and wick fire.
 As individual residents, the nepcsoportozatoknak centuries ago, the current one 
 
 was significantly different eyes. 
-
-
 
 Pa0e 20 
 
@@ -1381,8 +1313,6 @@ neptomegbe as thick around the constitution of losing large lake, always dagaszt
 its scope. 
 
 In a vivid picture of the then strange-looking, dark or mottled colors painted houses encircling 
-
-
 
 around, how to still see your area, Hungarian, Bridge Street and color sometimes. 
 
@@ -1428,8 +1358,6 @@ Salzburg deleted
 Monk - to the saying of the then barely tizevii Sigismund Bathory, as he Transylvania 
 Prince would not leave his home there three crowns? 
 
-
-
 Page 21 
 
 21 
@@ -1458,8 +1386,6 @@ offer.
 
 The appearance of religious thinking. 
 
-
-
 - Since the prince came home from Stone Petersburg, something ominous threat hovering around his 
 whole being. Our daily 
 
@@ -1481,8 +1407,6 @@ that you do not change. Udvariak hesitation, knowing that the first order rarely
 not 
 
 better than hers, but at least the man, and wanting to know. 
-
-
 
 Page 22 
 
@@ -1536,8 +1460,6 @@ arms, this beautiful dimpled szepnel pud and the whole firm, but this charming h
 shape his vision when he desires gerjekkel filled the bosom. It was Zsombori Judith, of Mikola 
 house close relatives and visitors of Margitnal present. 
 
-
-
 - Who is the handsome knight, who quietly put in us from the Cenfral Sfreet? - Giselle says, raising his 
 Judit and his head bent backwards. 
 
@@ -1559,8 +1481,6 @@ elefantagyarra and who would recognize him Mykola MARGITA.
 Monasteries waited more satellites proceed as Abafi-fry like, and what he looked like! God, what a 
 woman 
 Difference! 
-
-
 
 Page 23 
 
@@ -1613,8 +1533,6 @@ has:
 - Csalatkozol, innocent, joyful creature! You do not understand me. Ah, I myself do not understand! 
 Yea, a little sharp scream Giselle, and burst into fiames on his face experienced hands, as if he suddenly 
 
-
-
 burning 
 
 look at the house. Post about open mouth clenched spasm consonant koriilfeszitve you have seen 
@@ -1623,8 +1541,6 @@ teeth, and hurriedly rushed to belteremekbe.
 Margaret and Judith kitekintenek and ice cream facial features followed suddenly Gisella. 
 A few minutes after the departure of a windy day public servants face staring out the balcony, 
 staring eyes looking away; then carefully closed the window and left. 
-
-
 
 24 
 
@@ -1690,8 +1606,6 @@ elegedessel
 
 to say that no one can leave the house in a glance. The kolosvariak so accustomed to 
 
-
-
 almost did not notice any more; as a strange-looking man who stares ahead, laugh-out, 
 
 whom he carried with him into believing that it is not anything special. 
@@ -1701,8 +1615,6 @@ The door went in, right steep ladder led to the upper floor of boards composed o
 occupants of green ropes on either side forming, and the stairs were rough gray daroccal to admission 
 
 Ritva. Around the middle of this ladder is broken, and turned up a large, distorted right negyszegu 
-
-
 
 Page 25 
 
@@ -1775,8 +1687,6 @@ Mykola came out of the blue, waving bodyguards, went out immediately.
 
 - Not much. Daczi commanded to himself, and he said to me that afternoon to order horses 
 
-
-
 Szamosfalvara, three carriage. But I expect a little more; you know, the prince is not very usual 
 In addition to the first command to stay. 
 
@@ -1785,8 +1695,6 @@ teljesitni ran command; he thought, and the morning before he tried to do a hors
 I went because I had been rebuked. 
 
 - Tell me, do you, Szagfi to high court cleverness to know when you have to be late when you hurry? 
-
-
 
 26 
 
@@ -1854,8 +1762,6 @@ mivix boglaros rich, struck gold and in need of eziistov.
 
 Beside gomyedezo position to the shape we see whose face some formidable con- 
 
-
-
 tozkodast, and so to speak, predictive risk aversion causes. This tall, dry man 
 
 His face was long and pale; posterior part of the head Lepe thinly around the raven 
@@ -1875,8 +1781,6 @@ lips and the mouth of overlap rare deflected toward two comer kicks mustache; na
 thin beard 
 
 marched around. Was dressed in black and baggy waist strap bright billed. 
-
-
 
 27 
 
@@ -1900,8 +1804,6 @@ he coupled hour away.
 
 This furnished the monastic simplicity and ontagadast shows which then monk-Loyola 
 hard-working, influential presence of the children. 
-
-
 
 Page 28 
 
@@ -1942,8 +1844,6 @@ black man in the arm chair, turning iilohoz:
 for showing recently where the citizens of the village Mr. Monk and a conversation we were 
 witnesses. - Go - is hard gaze all, the frembling Cyrille - there, 'well look, where 
 
-
-
 I show the color street comer and tell the monks will of her ladyship to 
 
 immediately return to the monastery, and today does not make you see yourself anymore. 
@@ -1983,8 +1883,6 @@ Petersburg
 
 armies; tell me to be ready for the first command to invade the city. The central goal 
 
-
-
 Page 29 
 
 29 
@@ -2018,8 +1916,6 @@ of
 behind bloody revenge jurors deserve to die. The cowards! ... I thought they always 
 
 unmarried child will be their business. Where is the pride of Balthazar batyanknak now? The 
-
-
 
 Szamosuj- 
 
@@ -2069,8 +1965,6 @@ such leave under Turkish yoke.
 - The magnitude of Godly intention of His Majesty and the Roman pope's blessing will follow it. 
 You need stability, solid stability. 
 
-
-
 30 
 
 - Oh, do not be afraid! - Vigorously affirmed the magistrate, mingled scorn smile. - 1 know the good 
@@ -2097,8 +1991,6 @@ Sigismund
 
 ! Cariglinel "These are heard here and there; even though the ear of the prince could not play. 
 Just in time ere dangerous moving wave guides the royal command, which the grouping 
-
-
 
 guard army violently interrupted by works in, urgent action. First part, later high tomegek- 
 He started the oszolni people, and a quarter of an hour later, the space clean and deserted stale. The tall, 
@@ -2138,8 +2030,6 @@ about the loss of a man.
 - Sudden treated him - would make the prince out there with one of those glances that 
 horror and aversion cause, rough, satisfied revenge villamit spray. 
 
-
-
 31 
 
 - It is difficult to know the prince - is Bucella, squinting his eyes strained sorrow - but descended from 
@@ -2168,8 +2058,6 @@ went into
 Autumn bodyguards grim pictures, sex of the terrible serious anger that is so threatening. 
 
 - What happened? - Upright cried the prince, his face burst into flames. - Property bodyguards 
-
-
 
 this voice? 
 
@@ -2212,8 +2100,6 @@ Szagfi away.
 
 - Parties, miserable! - Was about space in the room. 
 
-
-
 Page 32 
 
 32 
@@ -2248,8 +2134,6 @@ hand.
 After a minute or two, has been around, holding ladles, Kendi the disembodied head. 
 Soon, the heavens were opened, heavy rain pouring the constitution, and executed 
 washed the blood off. This time it was taken as a sign of innocence Kolos expected. 
-
-
 
 Page 33 
 
@@ -2331,11 +2215,7 @@ A few days later Abafiban some change was noticeable. Slept better, a lot ejszak
 and the messy life weakened body eszrevehetoleg built long after the failed dream. He is a 
 not the best start to feel the light and merry phenomenon, which is mostly normal life 
 
-
-
 follow. Clear this awakened displeased lived so boring; it was almost the same lepetve 
-
-
 
 Page 34 
 
@@ -2408,8 +2288,6 @@ whether the boy suspect.
 
 Very title of this book explains that the author is not foreseen to details of the history of Transylvania 
 
-
-
 presented; However, the inevitable short on consolidated to mention, such as that at 
 story is somewhat versatile context and balance of our hero's actions relative 
 bution megitelesokre. 
@@ -2419,8 +2297,6 @@ that the prince ever said about it, everyone is still the biggest favor
 
 Pretend; but at the same time changed. I used to be jealous watching her with concern Bathory Boldi- 
 Cops days growing influence by military gyakorlottsaganak and high literacy 
-
-
 
 Page3§ 
 
@@ -2490,8 +2366,6 @@ ready to purchase, which was formerly used only visszatorlasara rude jokes.
 
 This natural skill and courage to explain and make understandable if they make it to morality 
 
-
-
 After meeting started with some gentle soul of this stimulus unsuspected talent greater kozhatasubb 
 
 use cases; cells has been that once life on the ability incorrect alszegyent 
@@ -2518,8 +2392,6 @@ csudalhatjuk not him, then, if the missed years of space to fill the acelszorgal
 
 It was again a great help for this intention tudomanyu large yard and educated pastor, and more 
 
-
-
 Page 36 
 
 36 
@@ -2542,8 +2414,6 @@ Reny, the
 noble morality foltetelekre ignite. Abafi soul of this initiative towards self-interest sejditeni; and 
 Thus the belief that he has to sit noble and humanly speaking, the south of reach perfection: 
 almost continuous, almost favorite kepzeteve are adapted. 
-
-
 
 Page 37 
 
@@ -2568,8 +2438,6 @@ which was almost invisible. Only szeposeitol ramaradt, laden with precious stone
 Have you seen the old man inside the house Abafi rich offspring. 
 
 Feel Iree to place risen from a large, enthusiastic sash around his eyes took in the crowd staring at him. 
-
-
 
 Gender 
 
@@ -2636,8 +2504,6 @@ Hot dicseretokre and
 called for the orders to seek to hold back the threat posed by the embassy, which heads over 
 be retired. 
 
-
-
 Page 38 
 
 38 
@@ -2656,8 +2522,6 @@ Every man staring Abafira; not the simple words which neither force nor certific
 power was not enough compared to the size of the hazardous conditions; but the courage and open 
 
 line of the village, which Abafi this dangerous time, when the difference between the opinions veszto- 
-
-
 
 took place in Transylvania enthusiastic men, they say. 
 
@@ -2721,8 +2585,6 @@ perhaps magnified, but not quite unjustly, many evil brought forward to greatnes
 will live in the bosom strong decided: never undone myself vile Oliver described 
 out. 
 
-
-
 39 
 
 - 1 understand - like Bathory reciprocate with contempt lineaments - juhocska a convert! Yes - 
@@ -2736,8 +2598,6 @@ Abafi understand the cuts, which the prince's words contained seeds.
 - All the wish is granted - the gentle answer hangejtessel, rezzentseget throttled itself - that my actions 
 are known. Excellency, even the bad ones, because those mentioning or 
 Condemnation is not going deaf tab, not closed bosom I find. The cowbell is not wanted 
-
-
 
 Never, not even me, adolescents, mature men of residence - to continue targeting the full gaze 
 giving the young Sigismund. 
@@ -2757,8 +2617,6 @@ Sometimes the neck is lost as well.
 
 The prince was suddenly gone. Abafi stood thinking for a few minutes, and then the 
 Mikola took to house the way. 
-
-
 
 Page 40 
 
@@ -2816,8 +2674,6 @@ bread and the countryside
 best wines loaded. The Hungarian cuisine malasztjaival middle-class, the then cseme- 
 Gekko as Szekely and Turda cake with honey produced fruits, and more mehser effelekkel 
 
-
-
 Tuda always speak yard guests. This abundance, host and cheerful courtesy of Mrs Ursula 
 
 kitchen views known, knowledge of your customer's table rarely failed. 
@@ -2847,8 +2703,6 @@ recently arrived from the workshop, and the next available near the furnace grat
 Benches stretched his legs a little. Bright borsipkaja was cut on his head aside, which le-lemartoga- 
 
 toward the floor as his eyelids involuntary dream makjai nehezkednek. 
-
-
 
 41 
 
@@ -2904,8 +2758,6 @@ fix - zsimbelt Ursula, putting together the honey and slices, and provided top o
 
 - So la - say - not only to reach the nose tabby lord. 
 
-
-
 - But it was not affelekbe pop it - comfortably meet Moses stretched his legs - not to me too 
 into the line. Who shared lawsuit, rarely do without one or the other not to damage. 
 
@@ -2929,8 +2781,6 @@ csokjaert village lady promises?
 
 - Wrong? - The host said with a smile. - Zounds! How could I not bad mother, or even good, and if 
 csokodert every village they would, would not eat time. 
-
-
 
 Page 42 
 
@@ -2980,8 +2830,6 @@ against whom, I think, in the village of more than common sense!
 - This is weird! - Exclaims Bethlen. - And as I see the hill wine is out of you; hibazasz but if 
 With it, go back to Bethlen ever before Abafi Good Hungarian iron hanging at his side, and you 
 
-
-
 poganyodnak always satisfies. Just the other not answer me so soon; to more 
 
 iron is ready. The interviewees in this open-hearted to the village Sigismund Bathory recommended. 
@@ -3014,8 +2862,6 @@ always
 
 keep an eye on. 
 
-
-
 43 
 
 - Who could I find - note the whisper Ursula - who's grim- faced men; but better 
@@ -3028,8 +2874,6 @@ you may be right; but what he had done Abafi that this care is accompanied by hi
 
 nothing escapes his attention - to the Assembly, he spoke against the prince's intention? 
 A man just get used to keep an eye on. 
-
-
 
 Page 44 
 
@@ -3063,8 +2907,6 @@ no soul knew of compassion, a charge of mischief conjure communities, it is not
 It may sound old blacksmith's room and the frivolous joke bout of joyful noise, which is the usual 
 
 Torda street corners as possible to hear it. 
-
-
 
 This is a dangerous time for long stories odabamulast easily explained by the fact the 
 
@@ -3111,8 +2953,6 @@ the
 
 God, do not run undoing. 
 
-
-
 .,Pai|ei4S.: 
 
 45 
@@ -3147,8 +2987,6 @@ face of fierce defiance and compassion which were mingled.
 - Yes, the wine here, and a lot ... What we can do better! - Say wild laughter. - It's bad in the world, 
 cowardly and despicable. Those who want to sell right here, csorgosiiveget should put his head ... wine, 
 I say. 
-
-
 
 wine! 
 
@@ -3197,9 +3035,6 @@ The young gentlemen continued further conversation tata them. Oliver on fire; ev
 dulata sfrange mixture forms a manly masculine not worthy rezzentsegnek sa coward complaints 
 bathroom. The wine is not easy to hurt him, but I can feel him present some risings. 
 
-
-
-
 While they were talking of the small Tobias slipped out the door, and the attention with which Moses 
 and 
 
@@ -3223,8 +3058,6 @@ arguments
 chair was placed near the sideboard. Then similar dexterity one small bench 
 
 Lift, and the driver seat. Thus, the ladder being ready, just quietly climbed on a chair and 
-
-
 
 from the small bench, arms raised tried out, if you can access to the deck. 
 
@@ -3295,8 +3128,6 @@ others have turned. - God be with you! - Engage in a firm voice. - I'll stay her
 
 - No! - Abafi curtly replied. 
 
-
-
 Page 47 
 
 47 
@@ -3314,8 +3145,6 @@ With all went. Abafi quietly took a seat next to the furnace.
 - What's the time, Ursula? - He says, gesturing to himself and stroking the little picture of Tobias. 
 
 - Ten hours will be longer - it is responsible. 
-
-
 
 - A four-hour rest here - Abafi say - and then go home. 
 
@@ -3348,8 +3177,6 @@ continue, taking leave of the outgoing Abafitol out his sword while Kote up some
 Tobias hands, his face covered the jet joy. 
 
 - Good night! - Abafi reciprocate. 
-
-
 
 48 
 
@@ -3403,8 +3230,6 @@ idea in a man's mind to accept life, which reimbursed him the right way, you mig
 
 again the vile pleasures forever been lost in your eyes? 
 
-
-
 When he saw the small Abafi Tobias ground in front of him: vivid colors, standing in front of one's life 
 
 legerdekesb scene, save the small Zsiga; she came clean heart, soul 
@@ -3438,8 +3263,6 @@ around gender of contempt surprise her heart. FoUeptenek was not the first civil
 success. Although smart with how, lack of success of complex there, which was great spiritual force are 
 
 highly 
-
-
 
 Page 49 
 
@@ -3494,8 +3317,6 @@ way of erupting complained fluctuated in beautifiil condition, and launched hims
 
 downturn legcafolhatlanabb phenomenon, the reasons that haste was downturns mentse- 
 
-
-
 Gere. 
 
 His non-Bulletin: or story, or a circumstance, however, as we have seen him in the visszaigazitak 
@@ -3542,8 +3363,6 @@ Guti Moses kettejeben the room drinking dubious figure to be recognized.
 
 - Give yourself! - Said one of his deep voice. - AU defense inorganic success. 
 
-
-
 Page 50 
 
 50 
@@ -3575,8 +3394,6 @@ but reproachful voice - that do not follow all my steps?
 - Teach me before, insensitive, to do this I know - is responsible for the help was pretty young, and 
 deep sorrowful expression on his countenance east. - 1 do not wish anything, Oliver, but while blood 
 bubbles in my veins, the sun that shines buried, you are! And yet we trifle with its 
-
-
 
 measured, what can I do, what you have done and are doing! 
 
@@ -3620,8 +3437,6 @@ nogatva power.
 my veins! Curse on you and all your steps, miserable. - Last words were almost drowning, and 
 hanykodott painfully from the ground is heaving, blood soaked al. 
 
-
-
 Page 51 
 
 51 
@@ -3657,8 +3472,6 @@ prospective some house keeping department of a whole nation.
 This stunt or sample the family in Transylvania Mykola house. Who saw it on occasion 
 possible overall image of all the riches of Transylvania family house holding, habits kedvtolte- 
 seirol the age in which history is moving. 
-
-
 
 Whether village or town in this popular family amusement, I noticed the simple courtesy 
 
@@ -3706,8 +3519,6 @@ so had the magic spirit kind of acceptance that it elomlott make up for it-owner
 respect. It was nice gentle lady, nice if debrief ekitmenyeit propagated; the grim 
 hunt deer if aggathatott peg in front of the kitchen, or mace, spear could swap the 
 
-
-
 52 
 
 Mykola old Miklos, who in his face at all times cheerful, comfortable, healthy expression 
@@ -3731,8 +3542,6 @@ followed him
 Mykola Nicholas's wife, Mary Abafi, Transylvania's most beautifiil woman leglelkesb. Nevertheless 
 two deep mourning the death overshadowed not only for the whole family, but the whole house people. 
 These 
-
-
 
 People are not happy about it than others. There was something special and something all of these 
 common 
@@ -3792,8 +3601,6 @@ get used to sense that his heart is attracted to her husband. Even after the los
 
 enthusiastic lady 
 
-
-
 Page 53 
 
 53 
@@ -3811,8 +3618,6 @@ lolag more women are distinguished fellow, has been brought back to him with a r
 gyulolhete. 
 
 Everyone was against Margaret almost ridiculous to speak or blame him; so onkeny- 
-
-
 
 dead, defeating for them was so public. 
 
@@ -3883,8 +3688,6 @@ speechless, sitting at table, playing a sad role in Hungarian, swollen face, whi
 was much better known heart or amused owl gunyhojaban hounds and greyhounds social 
 next. 
 
-
-
 Page 54 
 
 54 
@@ -3894,8 +3697,6 @@ The old man was Mykola first, then the intact nervous decided eyed child alert
 it came to pass, and others warned; but we also can not Abafi kind, either listless show 
 
 It was not, and was one of the remorseful, who they, I went after the present ones were elszam- 
-
-
 
 lalvan last get used to say, "he was here." 
 
@@ -3984,11 +3785,7 @@ the purple face, a warm heart beating causes; so not only Margaret soul, heart
 
 also came unto bias towards Oliver. Maybe it was not love, I felt Margaret, but certainly 
 
-
-
 Yes emotion akin to love. I often doubt arose from the lady in her bosom. Is it possible to 
-
-
 
 Page 55 
 
@@ -4062,8 +3859,6 @@ men: Oliver just had to show up to Giselle elnemuljon immediately.
 Margaret once inquired why he hates Abafit who, no matter what age a woman could be spoiled now 
 completely changed, and one of the most interesting young people of Transylvania. 
 
-
-
 - 1 do not hate - cast down his eyes met Giselle - anyone. And what could be this child's interests 
 
 estimated before the meeting Abafi, who does not even notice me? 
@@ -4078,8 +3873,6 @@ do not tell
 
 Abafirol more; I promise you that! - Say, providing a beautiful angelic goodness kezecskeit Margaret. 
 
-
-
 Page 56 
 
 56 
@@ -4090,8 +3883,6 @@ friendly to him: hidegsegedet could take notice, and it hurt him!
 eyebolts Gyulafmera asking, as if against the whole conversation would be nice. 
 Margaret was silent, and fish with making sure that Gizella coldness towards Oliver 
 orvosolhatlan or unknown causal circumstance, which prohibits fathom tenderness. 
-
-
 
 57 
 
@@ -4140,8 +3931,6 @@ lids; up so respect the quiet queen of heaven, which sugarpalastjanak amid serio
 
 gently melting ground, silver foams. Who saw her bosom, who would know what was noisy there. 
 
-
-
 szetrepeszteni what threatens it? Staring have it: ah, but no one knew! 
 
 He saw his progress Abafit silent, and stood up chair, accompanied eyes: dream seriousness 
@@ -4173,8 +3962,6 @@ more
 tavulabb tavulabb and sounding monotonous song, more staff is always quieter echo from 
 repeatedly. 
 
-
-
 , Page 58 
 
 58 
@@ -4195,8 +3982,6 @@ protesters
 the heavy, textured gold broke through the quilt, which was cast half-back flank and the imprinted 
 Have you seen pillows. - Where Giselle so late? - 1 think, and the hallways athangzek song-like voice 
 Margaret - Giselle! Giselle! 
-
-
 
 Page 59. 
 
@@ -4221,8 +4006,6 @@ a tall, ornate gilt carved door ledges. In right-to-left door frame we see two
 
 high upholstered bed: snow white squeaky beautifiil folds bullet went down window shade; beyond 
 these two 
-
-
 
 long, large-flowered sofa covered with fabric stretches on either side, facing each other, and all of 
 
@@ -4293,8 +4076,6 @@ best sleep medications, do not haboritsuk. A few hours later I come here again: 
 
 I could see someone else folvaltani good agent. - With the exception of a ladacskajabol vials, handing 
 
-
-
 60 
 
 Margaret. - Here - say - the damping fluid, of which not more than five small drop of water wiU be 
@@ -4312,8 +4093,6 @@ It was that Aaron's deservedly famous, and is both head element, whom Stone Pete
 torokfajastol saved and many upper-class family in Transylvania bejartas. 
 
 Apparently, after the doctor's departure to the peacefiil sleep, which Edje smiling 
-
-
 
 eldele lips lovely Giselle, restless fever hanykolodas replaces. Eyes half opener 
 
@@ -4384,16 +4163,12 @@ by unknown pleasure, the nehezkednek senses sweet, charcoal strolls bleaching, w
 
 following Edje enjoyment. - Oh! - Or rebege said. 
 
-
-
 Page 61 
 
 61 
 
 What you need to Margaret erzeni bajteljes this, but he is bound bitter heartbreak age, it's hard to 
 describe. 
-
-
 
 Clearly perhaps the first time that Oliver likes. Spirit has read little feverish heat of Giselle, 
 and for all the words of his innocent, childlike over his angelic purity of the heart of Margaret 
@@ -4458,8 +4233,6 @@ vedelye statement before this particular way: the soul of serious thoughts envir
 contemplate that his elder Oliver, perhaps an age so he could not quite boldogitni as 
 
 he desires a noble heart, and what would be immeasurable pain to him the thing he loves himself 
-
-
 
 Page 62 
 
@@ -4538,8 +4311,6 @@ You've seen it all - say, and some tired imagination of the paused again. After 
 
 continue, Gyulafine hands tightly clutching the heart - you knew everything, and listened as 
 
-
-
 Page 63 
 
 63 
@@ -4562,8 +4333,6 @@ the jet does not delight in his ejaculate sky around it.
 AIM, teljesiilheto, and I will not live among cowardly complaints, not referring to the life bar 
 remenyfosztva and imaginary egembol excluded - continuing deep sigh - live and machined, while 
 This beats the heart; while six, about the exciting spirit bosom! 
-
-
 
 Page 64 
 
@@ -4622,8 +4391,6 @@ But the ODVA dark caves, deep mountain lungs koriilbamulva immense vertical
 
 cliff edges, koruUehelve the deep darkness avatol: strange, inexpressible charm turns off 
 
-
-
 the people; elfogodas, religious gerjedelmek rise, and seem to appear. Hell is the torkaiban 
 
 soul thinks about heaven and invisible wings vicious tanyarol rise up to God, 
@@ -4650,8 +4417,6 @@ Before traveling to the show: two sides projecting sziklaormain natural gallery 
 numerous cavities. Through the broad bay ends midnight zuhogva a mountain rumbles kovecseken 
 
 stream; width of several fathoms, a depth less rare konyoknjdnel soon. The cave keble- 
-
-
 
 65 
 
@@ -4707,8 +4472,6 @@ Long is among a mass of people elcsomozott some up and down around the fire and 
 
 The whole face shape and compound spirit breathed some rough force, and the pecuhar csoportozatok 
 
-
-
 around the bonfire dark red lobogvanya fusion dubious hesitant light, providing a huge remekkent 
 
 the dark shadows of the cave szirtoldalain us in for. A great romantic scene 
@@ -4741,8 +4504,6 @@ Italian ground Uncle Bela, as most of the Lonyai possession.
 The two speakers really Cseszeliczki Balthazar, upscale, very smart young man and Bob Lonyai 
 they were. The first eszerol, the last known details of valiant men, whose pardoned 
 as the prince, but their cattle giddy and Lonyait iramuze. 
-
-
 
 66 
 
@@ -4787,8 +4548,6 @@ The
 
 men immediately jumped up and stretched fegyvereikhez, marched to the door of the cave, which 
 
-
-
 tease throat dark knight with a serious-looking. Clothes of unsophisticated simplicity, blue 
 
 dolman and an approximate kanyaritott medvekacagany him in the presence of one of the incumbent. 
@@ -4822,8 +4581,6 @@ although I noticed no hiding from the thicket, and even spears raised me.
 footsteps. 
 
 - How many of you went to El Toro, Botos here? 
-
-
 
 Page 67 
 
@@ -4872,8 +4629,6 @@ ficamlik out of his place, not a problem!
 - While wine and beautiful women are - continue Falcon - wonying about quality? We are beyond what 
 anjway 
 
-
-
 I have everything. 
 
 - Beasts distribute the prince, and you, Forward, or banished to Hungary! 
@@ -4905,8 +4660,6 @@ be the one which we intend to stand; you anyway - continue pride - 1 will decide
 
 - Just remember - about Forward - promise you: I do not rant against Transylvania sword ever. 
 - 1 do not, I do not - say Falcon Botos and at the same time. 
-
-
 
 Page 68 
 
@@ -4953,8 +4706,6 @@ Szeben has also been a barrier gate.
 
 - Sword? - Forward inquired. - It megugratjak Polish lords. 
 
-
-
 - Long dzsidakkal German course - answered Brigade - the German princely lady honor, and perhaps 
 
 kelevezzel, if it comes; I do not fear for the Poles! 
@@ -4989,8 +4740,6 @@ Prince follow in the footsteps of such a secret flight; others more briefly trea
 tunity wanted to hide. - Mikolaekkal not want to mess with Bathory. Abafi closely related to the 
 house, but it will not save him - continue clenched lips. 
 
-
-
 Page 69 
 
 69 
@@ -5008,8 +4757,6 @@ all those skills, which often unexpected situations always vigilant Taps beings.
 shape. 
 
 - Lightning or Tartar - met Marko quiet - nothing else. 
-
-
 
 Pagie 70 
 
@@ -5031,8 +4778,6 @@ thin legs, strong, secure bottom. Such was the knight's horse, clean Ciuc specie
 
 well reviewed. Eleven Green cafrangja defeat fringes hanging down his head, and fit nicely faded apple 
 color; Hungarian high cantle saddle, bear meters covered with skin, tight slim waist; forward 
-
-
 
 receiving his feet and lively gait lightness and fun aspect dashing Negen uttered detailed. 
 
@@ -5082,8 +4827,6 @@ fell out of chestnut color, ankle-length hajtekercsei.
 
 - Resolve saruimat off! - Say half imperious, half smiling voice. 
 
-
-
 Page 71 
 
 71 
@@ -5110,8 +4853,6 @@ fodelokbol yellow.
 gaze. 
 
 - He knows! - Answered Brigade defiance. 
-
-
 
 - Nothing! - Lightning spoke briefly, always keeping an eye brigade. - And you, Father - continue - 
 hozass wine! I'm Szomjus. 
@@ -5160,8 +4901,6 @@ capital, twenty
 
 is not it. Forward? Tomorrow will be sent White Castle. 
 
-
-
 Page 72 
 
 72 
@@ -5174,8 +4913,6 @@ the frouble and the battle! - Cried merrily lifted up the fakantat.
 
 "Hail!" Bluster. 
 
-
-
 73 
 
 BLACK KNIGHT AT MIDNIGHT 
@@ -5186,8 +4923,6 @@ Komer
 But let's get back to the Prince. Sigismund Bathory known overly hesitant acts 
 
 kidney, her cruel olettetesei higher proportion of the Transylvanians, and even the outer court case also. 
-
-
 
 odious camels. But we also can not be denied that certain magic about the melt 
 
@@ -5257,8 +4992,6 @@ simultaneously abolished; even if they had directly ordered the prince.
 
 Do Sigismund Bathory thing was to see them tomorrow mercy, whom he hated today 
 
-
-
 Page 74 
 
 74 
@@ -5274,8 +5007,6 @@ He was awarded a high spirit of conquest against her charm. He is the prince of 
 himself, yet polite distance could be observed. But all that, that Abafit as 
 
 Mykola house close relatives latszatott spared, not legoromestebb told her, and her restless, 
-
-
 
 although not considered a dangerous man. 
 
@@ -5353,16 +5084,12 @@ taltsag the detailed care towards Giselle, which is partly due to higher
 
 build-up of such a disease in which there were some technical veszelyjoslok. And not fraternal. 
 
-
-
 Page 75 
 
 75 
 
 friendly, but the mother was the diligence, which made all of Margaret seemed off", and the inner 
 heavenly reward enthusiastic countenance radiated pleasure, when he saw the success of this beautiful 
-
-
 
 diligence. 
 
@@ -5452,8 +5179,6 @@ that silence of such importance and happy - and among the bland, bland applicati
 
 Giselle towards Abafi not worshiping, but pleasant, conversational was just hilarious. 
 
-
-
 Page 76 
 
 76 
@@ -5501,8 +5226,6 @@ back and always - always look back on.
 In many cases simple natural saga for the occasion, and sometimes superstitious people's lips 
 Regev formed. 
 
-
-
 77 
 
 DANCE HALL 
@@ -5527,8 +5250,6 @@ regulations intended to express joy.
 
 The palatial halls and rooms of all creation who were superbly ftjmished, and the eye 
 all heavy silk and velvet fabric resting on. Openwork gold trim, gold-plated 
-
-
 
 chairs, steel mirrors, Turkish carpets were seen everywhere, and the walls kamukain dragons 
 Griffons and stared at the compound thousand spectators. 
@@ -5579,8 +5300,6 @@ Tuda uni-
 
 bet to say that a few days ago as he saw his fiiend hunt safely and healthily. 
 
-
-
 Page 78 
 
 78 
@@ -5609,8 +5328,6 @@ Bethlen stood quietly before the magistrate, and it seems to want to answer; but
 
 - Tomorrow, I hope to Bethlen, the knight will not fail between the barriers. Illustrious 
 kelevezhajitok are among our guests: young Zamojszki, Komisneval out there and talk. 
-
-
 
 Szapia Casimir; these very nice would snatch the laurel. 
 
@@ -5655,8 +5372,6 @@ to be an exemplary husband?
 
 Banfi seemed to think. 
 
-
-
 Page 79 
 
 79 
@@ -5686,8 +5401,6 @@ if it is true what I hear.
 
 - Said in Banfi - a secret tender, about which I speak is not gladly, especially before lady 
 expression. - The relationship among them is hardly ever more prospective than fraternal. 
-
-
 
 - 1 will spare the communication - meet Judith, public speaking and suddenly the ground easy pirulattal 
 towards. - Just Gisella - continue, desiring forditni the subject of the conversation - tomorrow will be 
@@ -5731,8 +5444,6 @@ Giselle), the
 
 fejedelemnehez contributed, and called him up slowly Polish. 
 
-
-
 80 
 
 Oriental dress even raise the interesting Levente stature. Then down to his ankles, he picked folds 
@@ -5756,8 +5467,6 @@ gyozedelmetkrol famous knights.
 
 Bucella, a doctor, a simple black suit in Italian; Basil, an Italian painter and several strangers 
 unto the scene in part shade, dappled partly strength. 
-
-
 
 Page 81 
 
@@ -5841,8 +5550,6 @@ hanging, and everyone wants to know the name of this interesting creature.
 The stairs around the bustling crowd barriers, there is an empty space; gap in per 
 princely sons stood guard army military medvekacaganyaikkal and heavy weapons. 
 
-
-
 Page 82 
 
 82 
@@ -5916,19 +5623,13 @@ signal,
 
 relationship was based on the city bastions daydreams howitzers thunder. 
 
-
-
 83 
 
 MATTHEW TOWER 
 
 The gate opens. 
 
-
-
 Page 83 
-
-
 
 Arthur 
 
@@ -5997,8 +5698,6 @@ mingled.
 - By briefly treated - notes with Guti Moses leaning Orsolya - 1 do not think that 
 second catch. 
 
-
-
 Page 84 
 
 84 
@@ -6014,8 +5713,6 @@ Tobias cake stash under his jacket, and his mouth open staring ahead.
 - Ni, ni - exclaims Orsolya - the scruffy lad what he wants? Not only waging a Mate! 
 
 - But it is! - Guti said Moses, with great attention given to the fight place where a beam 
-
-
 
 young and bold strokes interesting view approached Matthew, who stood still, as the 
 lion to save him before koriilcsaholo dogs. 
@@ -6080,8 +5777,6 @@ The prince looked like some gentle words to Bethlen, who soon left the
 
 battlefield. 
 
-
-
 85 
 
 Swan Knight 
@@ -6098,8 +5793,6 @@ That my stay in Transylvania leventes Cristiemaval and numerous guests of all pr
 raise awareness, it also wanted to add color to the east all the way kiilrol: twenty-four adolescent 
 
 Knight 
-
-
 
 the first families in Transylvania, the Poles are present in the young and the German Szapia and 
 
@@ -6170,8 +5863,6 @@ believed that
 
 zuzatnak the barriers to or farther twisted cores; but also in such dexterity, 
 
-
-
 Page 86 
 
 86 
@@ -6185,8 +5876,6 @@ Bethlen and Banfi. All those whose waist was reviewed two patch, the judges figh
 gyozetteket kiidezven of the barrier. 
 
 - The Polish lords - says the prince - probably win this practice; them and the lance 
-
-
 
 kelevez favorite weapon. 
 
@@ -6262,16 +5951,12 @@ would have been shocked. His face was pale, and waving it around again suddenly 
 
 szerafarcara regal woman hanging and standing about enchanted. I liked it. 
 
-
-
 Page 87 
 
 87 
 
 as if the space of everyday life in the light of the gates of heaven would consider, and not imaginary 
 pleasures 
-
-
 
 Edje statement. What image of half unsuspected form, being brought up as a picture in his soul, he 
 
@@ -6335,15 +6020,11 @@ The battle Abafi calm and began standing in one place or more waiting for you. Z
 villamgyorsasaggal rushed to her, and it just reminds ketolnyire the first kelevezt by 
 Abafi very oldalugrassal bypassing the second hand taketh away screaming at him, and one 
 
-
-
 Page 88 
 
 88 
 
 perditven it, visszarobbanta, and found Zamojszki horse collars, sudden turns, barely 
-
-
 
 palm away from the barrier, avoided the huge projection. 
 
@@ -6412,11 +6093,7 @@ Abafi
 
 was noticeable. 
 
-
-
 89 
-
-
 
 Enamelled VITEZ 
 
@@ -6488,8 +6165,6 @@ I was not afraid Bocskai half dead too.
 
 - Well, who would? - Mykola says with a laugh. 
 
-
-
 \_\_\_\_\_\_ \_\_\_\_\_ P\*ag»'iiU- 
 
 90 
@@ -6502,8 +6177,6 @@ After the first test after the blue enamel knight, tall, white, flag pen with th
 tease in front of the lodge, and dzsidajat new one in the hands lowered, respectfiiUy requested the fiiU 
 
 voice 
-
-
 
 regal woman that her husband is not viselhetven this battle colors to honor a Transylvanian 
 Wearing permission knight, who believes that they will win all the other colors over 
@@ -6550,8 +6223,6 @@ enamel knight raised sisakrostellyal. Giselle knew it; suggests in her heart to 
 hero, the winner was Abafi. Near the royal lodge in the green-dressed young man looked around, 
 face was beaming, who saw him like this, I believe that he won. 
 
-
-
 Page 91 
 
 91 
@@ -6589,8 +6260,6 @@ Attributed to.
 
 Our hero had all the appearance of high- impact event. Not only kivalolag nice, manly figure, 
 tarsaUcodasi fine but the ease with which he made his own since become part time, and especially by 
-
-
 
 the 
 
@@ -6630,8 +6299,6 @@ used. The power, however, he became more certain, more experience and gyozedelem
 breeder confidence that self-esteem: the more approached Oliver's so natural 
 
 modest Community, which is the perfection valhatatlan followers. And if raw, defiant gaze once. 
-
-
 
 Page 92 
 
@@ -6675,8 +6342,6 @@ narrow, pretty feet like unlikely Topanka tight. Illustrious sword side, and mic
 sen tiger skin round loaf, pretty beaten gold eagle feather is added to the simple yet stunning 
 
 outfit. 
-
-
 
 The regal woman Abafihoz also spoken of among others, to mention a few laudatory term gyoze- 
 Defence, thanking to the colors of the day acquiring triumph. 
@@ -6726,8 +6391,6 @@ beautiful soul conditional flag up. - After all, he does not like you - he says 
 kepzelgesz, vain girl that he likes you ever able? Margaret hearts endure; and who have been here, who 
 you deserve it? - So mused; However, the heather started. 
 
-
-
 Page 93 
 
 93 
@@ -6749,19 +6412,13 @@ bosom, and it was impossible to say sweet. Margaret looked after them, a tear st
 eyes; and who knew him, no doubt, that egyjet enjoy the heavenly moments, 
 which are the reward for a ongyozedelemnek legnemesbiket joy. 
 
-
-
 94 
 
 MILITARY READY 
 
 And go as undermining the thunderstorm, 
 
-
-
 Page 94 
-
-
 
 The small but brave military. 
 Vorosmarty 
@@ -6840,11 +6497,7 @@ and clean
 
 hodolasa; face appeared from the fact that Bathory began to be attracted to you. 
 
-
-
 Pagp 95 
-
-
 
 95 
 
@@ -6916,11 +6569,7 @@ speed, which unexpectedly appeared everywhere.
 Abafi was one of the very first one, not the despicable battalions multiplied thy princely armies 
 Near Bistrita, which was scheduled gjKilhelyiil. 
 
-
-
 96 
-
-
 
 BATHING 
 
@@ -7009,11 +6658,7 @@ Jet descends from the top down so quietly, so unchanged as a glass rope,
 
 atszikrazva dubious star light. The jet soft spreadable csorgessel united front of the cave 
 
-
-
 Pgige 97 
-
-
 
 97 
 
@@ -7093,8 +6738,6 @@ every movement suggests that it is not an empty threat words occupy themselves.
 Izidora, I would have stayed intact hundred battle to the hand, so who merhetlen 
 
 I like feeling, by my heart beat? 
-
-
 
 Page 98 
 
@@ -7177,8 +6820,6 @@ against a
 
 and when he graciously pardon, you're miserable, I want to execute this! ... This dagger 
 
-
-
 the ercfal, which is between him and the center of the earth to the sky shop! I know what you go 
 
 a long time already, despicable! But dismayed because megismertetlek Abafival. 
@@ -7186,8 +6827,6 @@ a long time already, despicable! But dismayed because megismertetlek Abafival.
 - Hahaha! - Say wild laugh Brigade. - Abafival? Fear of him, and thou dismayed! - Then 
 
 the sudden jump vizmederig plummeted. 
-
-
 
 Page 99 
 
@@ -7241,8 +6880,6 @@ was fatal.
 
 The next day, the edges of the royal army arszlana g5KiIhelyere started. 
 
-
-
 Page 100 
 
 100 
@@ -7257,8 +6894,6 @@ Michael Vlach and shaking them Moldavian Voivode's.
 
 Sinan Pasha was a great leader of the enemy. Sigismund continue the war a lot of luck; more 
 battle to beat the Turks. 
-
-
 
 Among those who have this great war Tone and useful services to the prince, was also Abafi, 
 who is also the last battles of luck was the prince of six Tatar, who applied 
@@ -7316,8 +6951,6 @@ something
 Usually suffering, which was discarding his face, doubling the interest of being charming. Margaret 
 alone 
 
-
-
 Page 101 
 
 101 
@@ -7331,8 +6964,6 @@ the seriousness of the cause: Gyulafine avoiding long answer.
 - Gisella grief press - say once the fejedelemne - perhaps the parents of plaintive orphan, or 
 separation from you, good Margaret makes her so take hold! You do not think much again want to do - 
 continue the 
-
-
 
 legreszvevobb voice - shall see him happy. 
 
@@ -7400,8 +7031,6 @@ Abafi!
 
 Abafi gentle handshake answering the left. 
 
-
-
 \_ \_\_\_\_ ;pigtfiii: 
 
 102 
@@ -7414,8 +7043,6 @@ Gizella seemed as if Abafi never so happy to never give honor to the full udvari
 gal had not spoken to him, and a feeling of melting a handshake whole being, which is dark and 
 
 dubious memoirs wizard dreams of fairy pictures. 
-
-
 
 Since that time Bathorine monitors kegyencenek lives; Abafirol often spoke to him, and 
 
@@ -7478,9 +7105,6 @@ never refutes itself ... the unprecedented fidelity, from which it is apparent t
 do not let's not let that happen ... illetetlen hardly the one hand, as well bury him not owe. 
 Since I'm lucky to be your honor's camp, tents abound in everj^hing, in which the 
 
-
-
-
 can be found in the countryside; and if I ask, who brought her maids rarely able to meet; everything 
 
 We learned that a pretty young soldiers sometimes come close to the tent at night, and if removed, the 
@@ -7490,8 +7114,6 @@ before or basket filled with fruits of the region legizesb and Turkish delights,
 game or else they find, and always leave so suddenly that it can not be recognized. 
 
 - Without a doubt he is! - Said the prince. - A girl or woman deli cute! Several times I saw Deli 
-
-
 
 Markoni, but this feral creation would not have guessed that's loyalty! Father yes 
 differs from it. It is true that so far has not given us the word of the breach; but this only 
@@ -7547,8 +7169,6 @@ lelni which you wish! An amiable prince grows near, the triumph of light from
 koriilsugarozva more beautiful, more simple pleasures of which you can enjoy as Olaszhon 
 all softened pleasures, where there is only a caricature of former greatness. 
 
-
-
 Page 104 
 
 104 
@@ -7563,8 +7183,6 @@ the desire for calm amid light Bathory, who laid it up briefly the national
 worries, Kovari franquility again I wish to return to the noise from which to run latszatott. Cristiema 
 association was desirable in front of a forward, but this was hardly ohajtasbol reality: the lady who 
 royal purple is not devoid of all ornament, whom each had its own boldo- 
-
-
 
 gitasara, you can get anjwhere near to heaven, not to fill the hearts of consciousness. 
 
@@ -7581,8 +7199,6 @@ quietly - selyemredos the dress, the Red bibornoki hat and a spacious, comfortab
 Among the former queen of great worth like ruins all small dicsosegunkkel here! What ... 
 
 think Levente? 
-
-
 
 Page 105 
 
@@ -7645,8 +7261,6 @@ nyargalva before agyusor - Now turn; fire!
 
 The cannons roar filled the air, making a terrible havoc among the Turks. 
 Then a young knight jumps up on the ridge. 
-
-
 
 Page 106 
 
@@ -7725,8 +7339,6 @@ wrapped
 
 reins, while he stared at it, left in a hurry, between the army was satisfied, and soon disappeared 
 out of sight. 
-
-
 
 Page 107 
 
@@ -7814,8 +7426,6 @@ up! ... this horrible creature that almodhatnek love of the man, whom no woman w
 
 megerdemlene! 
 
-
-
 Page 108 
 
 108 
@@ -7895,11 +7505,7 @@ The army remained a part of the valley, sleepless eyes virrasztva by the long ni
 sometimes heard a shot or quiet csortetes, movement of froops and signal testing 
 in lectures. The peace camp in a hurry after all the day long struggle. 
 
-
-
 109 
-
-
 
 THANK S DEATH 
 
@@ -7972,17 +7578,12 @@ call, he is not very far from here.
 
 - 1 do not mind; but first, as you know, blindfold; because verzeni start again. 
 
-
-
-
 Peter badly torn cloth well-put the wound, and it korulkeritven white cloth, the tent 
 exited. 
 
 Abafi healthy elbow leaning lying on his bed. Not looked away by the opening of the tent 
 
 fire; and the camp guards walking up and down and the children of military zsibongasuk, horses etc, 
-
-
 
 fegjrvercsor- 
 
@@ -8054,17 +7655,11 @@ from.
 - It's Brigade - was barely out of the tent hallhatolag. - Oh, terrible ... Thank you, God, that 
 found me. 
 
-
-
 Ill 
 
 - Do not take me! - Say Brigade, crazy eyes in all around him. - Let me see once more. 
 
-
-
 Page 111 
-
-
 
 only once! ... Oh, Izidora, cursed be the hour, which was carved ivemet! Cursed 
 
@@ -8145,8 +7740,6 @@ breath
 sustain likeness away - he's asleep or unconscious, or dead. Marble was a picture, which 
 cold lines there appeared to float nemesultebb soul. 
 
-
-
 112 
 
 Thus, she relaxed. Oliver was troubled in his tent. - Gyarfas - say - make a wish, what you want, but 
@@ -8223,11 +7816,7 @@ immediately rushed.
 
 Izidora began to awake; his face was peaceful and quiet earnestness; Oliver providing hands. 
 
-
-
 113 
-
-
 
 - Father Zsigamnak - say soft, erctelen voice - oh, put him happy ... God, that it was not 
 Now I can see my watch last! ... divorced from life without weak arms around my neck 
@@ -8298,17 +7887,11 @@ I also found him to this moment.
 
 The doctor approached. 
 
-
-
 114 
 
 - It's not good - say - a lot of talk now, dear lady! 
 
-
-
 Page 114 
-
-
 
 - Oliver - said Izidora - whether it is possible? Oh, this is a dream, right? ... Oliver mine, my 
 husband! ... 
@@ -8349,8 +7932,6 @@ who first sent Abafi. Providing hands on him, Oliver - late, my brother! - He sa
 Horse rampage hear chairs outside, and letoppanasa a heavy body. - This arszlana caves - 
 Abafi say - Deli Market! 
 
-
-
 Page 115 
 
 115 
@@ -8387,8 +7968,6 @@ would have been the killer found dead. It was a gaping wound on his head, and th
 around the 
 
 sand. Guardians claims that the morning knock on the previous night, they heard a dull, deep 
-
-
 
 Following horgestol. The unfortunate smashed the head of the capital, which was chained. 
 Abafi made, which fell by Gyarfas and the monk told the game champion, touching hearts. 
@@ -8431,8 +8010,6 @@ I will have all the testimony - he says, offering his hand Mark Employer.
 
 - And if you have lived - said Mark - if young people have the power to overcome death, then ... Abafi? 
 
-
-
 Page 116 
 
 116 
@@ -8469,8 +8046,6 @@ please: my heart is threaded.
 - Sit next to me - met Marko - who quietly listen and judge. Izidora illicit association 
 
 fruit. His mother came from a noble family; Name of eternal secret of my heart. And rarely rejte- 
-
-
 
 I come up with his mother handed in not only ... but more about that. Izida increased among men; than 
 children already gave signs of definite reality, and determination to achieve romantic direction, which 
@@ -8510,8 +8085,6 @@ a childish grandfathers, who would spend hours in my lap barrel.
 - My daughter never confess. I suspect that Gyulafi Valentine, Mykola Margaret's husband; because 
 landscape of cattle were camping near you, and the one-year-old husband was amused oromestebb 
 Izidammal - continue some reserve Deli Market - as Transylvania's first daughter, the famous 
-
-
 
 Page 117 
 
@@ -8553,8 +8126,6 @@ it was!
 
 - I'll take the world get rid of the haze - Marko replied. - Before about three years to a monk 
 satromba entered. Sir, I say, the most important thing you want to follow me suddenly. Kerdeseim- 
-
-
 
 he did not want to answer. I follow. The neighbor went to our village to the next one monk 
 I'm talking about: 
@@ -8620,8 +8191,6 @@ to the
 
 Margaret fiacskajanak suits, he brought it with him! ... The exchange more easily done. 
 
-
-
 Page 118 
 
 118 
@@ -8642,8 +8211,6 @@ kettqjoknek great reward could have?
 
 - Then - met Marko - This is my commandment, and my purse. The children discovered the secret 
 After three moons Mulan out. 
-
-
 
 - And we could not move him your mercy? - Scanning Abafi, resting his eyes feddoleg Deli Market, 
 and 
@@ -8702,9 +8269,6 @@ suggesting
 
 certificate. 
 
-
-
-
 - At first, the child's father, Gyulafihoz like - say Deli Market - later 
 
 I myself have noticed some changes lineaments. This happens so often in children, while 
@@ -8715,11 +8279,7 @@ Deli Marko sat Abafinal length, and was engaged in what must be done in a future
 is that thing he has in any case in advance deep secret. Royal command called 
 Sigismund Bathory them later in the tent. 
 
-
-
 Page 120 
-
-
 
 120 
 
@@ -8788,11 +8348,7 @@ they called together the last buckle price war in the services etc. sheer grace 
 not to win. Bathory Abafinak this was not the best of enthusiasm took, but his word Defected 
 This time break. 
 
-
-
 121 
-
-
 
 Home Abafi found safe and healthy little Balint, Zsiga not anjmiore. Pastor of the yard 
 Defeat is not quite the charming child advancement of diligence praise. Abafi Deli and Market, 
@@ -8868,11 +8424,7 @@ often close to him, and there he saw several times Gizella without him feel more
 
 before. In addition Cristiema Abafi Tuda not think anything else, just save him! 
 
-
-
 122 
-
-
 
 A few days after the birth of little Valentine came to light, Bathorine, whose 
 conduct of his or her towards Abafi experienced no change, and called him. 
@@ -8948,11 +8500,7 @@ love is unrequited, and when it is not the object of the suspect! - It was such 
 
 Abafi. Cristiemanak the legszivesb made the offer insulting tone legreszvevobb, wounding Abafit. 
 
-
-
 Page 123 
-
-
 
 123 
 
@@ -9023,16 +8571,12 @@ against the idea.
 - Giselle lovable child and your worship - say Abafi vaunted, but suffering 
 voice - adopted daughter 
 
-
-
 Page 124 
 
 124 
 
 Cristierna lowers his eyes. So much determination, and as much as many sad words of significance was 
 the young 
-
-
 
 In that sense elerzekenyiilve involuntary hearts. - Abafi - murmured inexpressible softness 
 voice - 1 want neither charming children's happiness is a boon! His grace your likes this 
@@ -9054,8 +8598,6 @@ Gizella grace your day as my Gizellamnak - say noticeable targeting and Audio
 face - I'm going to see her fiance! 
 
 Abafi deeply bowed down, and left speechless. 
-
-
 
 Page 125 
 
@@ -9113,8 +8655,6 @@ Giselle fluctuated legs. - Boon Abafi - says he hardly surprised hallhatolag. - 
 
 He made also the softest, almost with one voice to it. - And we can reach this sudden determination? 
 
-
-
 - 1 Kepedbol - said Mykola kifakadva - that you love Oliver. Gizi, do not give me the basket, 
 Do not enter! Come - proceed with bright cheerful Abafihoz guided him, and the young man's arms 
 Among thanks - you're married to one, because - he affirmed, rubbing his hands with delight 
@@ -9123,8 +8663,6 @@ Gyulafinet ticket - good daughter, come and take part in our joy; Gizi husband .
 The old Mykola was beside himself with joy; s all so sudden, so bright with noting that 
 while Giselle noticed: It was in the Abafi arms. Every dream I liked him; but the dream 
 It was heavenly, and as a wake-party clung to silence the young breast. 
-
-
 
 Pajne 126 
 
@@ -9193,8 +8731,6 @@ respect to the recall, which was so worthwhile. Deeds, not words appeared in the
 his spirit. Purity, modesty: that the two words paint him up. He loved Abafit as 
 no other; so he knew himself to be used, so the passions, habits, almost 
 
-
-
 gondolatjat to find out that her husband can not be considered without this deep condolences and 
 gratitude innocent, pure, 
 angelic creation. 
@@ -9207,9 +8743,6 @@ So with fish came closer and closer to the interesting alliance, which brings to
 Occurs when a Abafinak need to go into Vienna. His absence is good, nice Gizellatol distribute the 
 gloom utterly soul. He felt how necessary it was Giselle; feeling of happiness 
 first true pure joy of all fellengestol went to Gisella likes. The romance 
-
-
-
 
 magasztaltsag past! Giselle Abafit localization in life; and now it's become prominent, 
 a man full of interest, how a man can be perfect, I can tell yourself that! 
@@ -9258,12 +8791,8 @@ live
 therein; I owe him my heaven. But what I feel for you, you dear, good, gentle angel: the 
 love; Yes, yes - say flaming face and passionately involved in the most beautiful woman of 
 
-
-
 Transylvania 
 bosom - the love! 
-
-
 
 128 
 
@@ -9336,11 +8865,7 @@ real world.
 Other writers in the life of the world is perceived as really exist. His life is not a novelist 
 life, his person is not novel persons, but also calling on existing drawings of world events 
 
-
-
 and persons in which we live, and which of us are. 
-
-
 
 Page 129 
 
@@ -9404,8 +8929,6 @@ immersed in the world and life-like images are always confident, but that these 
 can not jump, be prepared for this, and the reader and not used abrandozasokhoz reader - 
 big time now lekoltoztetni Irom the clouds. 
 
-
-
 Page 130 
 
 130 
@@ -9415,8 +8938,6 @@ Josika listed on Abafi TO
 1 
 
 Required of the reader Abqfi the name Apqfi stored up not replaced. 
-
-
 
 2 
 
@@ -9502,11 +9023,7 @@ we can not find anything new: so crazy, febrile whim distorted forms of common i
 
 notions; otlik minds of a king, this ties together the overall big uttered; and not 
 
-
-
 Page 131 
-
-
 
 131 
 
@@ -9588,16 +9105,12 @@ everything and
 
 Gizella fever fish with quiet, there is a clear minute whim, she opened her eyes, neighbors 
 
-
-
 yat feel, and Margaret asks the question of water; united in the minds of the water clarity and image of 
 
 this 
 
 contrast, the density of "do not drink the thick - say - crystal clear ... - and again the notion - as my 
 my love! " 
-
-
 
 Page 132 
 

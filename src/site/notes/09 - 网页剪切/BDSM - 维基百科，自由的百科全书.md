@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/BDSM - 维基百科，自由的百科全书/","created":"2024-07-15T21:51:48.381+08:00","updated":"2024-07-15T21:51:48.382+08:00","dg-note-properties":{"page-title":"BDSM - 维基百科，自由的百科全书","url":"https://zh.wikipedia.org/wiki/BDSM","date":"2024-07-15 21:51:45"}}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/BDSM - 维基百科，自由的百科全书/","created":"2024-07-15T21:51:48.381+08:00","updated":"2026-08-15T07:57:33.366+08:00","dg-note-properties":{"page-title":"BDSM - 维基百科，自由的百科全书","url":"https://zh.wikipedia.org/wiki/BDSM","date":"2024-07-15 21:51:45"}}
 ---
 
 **BDSM**
@@ -42,7 +42,7 @@ BDSM的实践如果是施行于中立或无性的脉络下，会普遍被认为�
 
 ## 心理层面\[[编辑](https://zh.wikipedia.org/w/index.php?title=BDSM&action=edit&section=1 "编辑章节：心理层面")\]
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Samuel_Colt_leather_2009.jpg/220px-Samuel_Colt_leather_2009.jpg)](https://zh.wikipedia.org/wiki/File:Samuel_Colt_leather_2009.jpg)
+[](https://zh.wikipedia.org/wiki/File:Samuel_Colt_leather_2009.jpg)
 
 美国[GV男优](https://zh.wikipedia.org/wiki/GV%E7%94%B7%E5%84%AA "GV男优")Samuel Colt身着带有BDSM意味的服饰
 
@@ -98,7 +98,7 @@ BDSM游戏中使用的工具包含了各式各样的项目，从特别设计过�
 
 ## 历史\[[编辑](https://zh.wikipedia.org/w/index.php?title=BDSM&action=edit&section=8 "编辑章节：历史")\]
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/BDSM_Company_on_Taiwan_Pride_2005.jpg/220px-BDSM_Company_on_Taiwan_Pride_2005.jpg)](https://zh.wikipedia.org/wiki/File:BDSM_Company_on_Taiwan_Pride_2005.jpg)
+[](https://zh.wikipedia.org/wiki/File:BDSM_Company_on_Taiwan_Pride_2005.jpg)
 
 [皮绳愉虐邦](https://zh.wikipedia.org/wiki/%E7%9A%AE%E7%B9%A9%E6%84%89%E8%99%90%E9%82%A6 "皮绳愉虐邦")参加2005年的[台湾同志游行](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%90%8C%E5%BF%97%E9%81%8A%E8%A1%8C "台湾同志游行")的照片。
 
@@ -119,9 +119,6 @@ BDSM在西方主流文化中的传播，则是透过[前卫](https://zh.wikipedi
 “皮革骄傲旗帜”是皮革社群所使用的象征符号。
 
 ## 参考与延伸阅读\[[编辑](https://zh.wikipedia.org/w/index.php?title=BDSM&action=edit&section=9 "编辑章节：参考与延伸阅读")\]
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png)
-
 -   Guy Baldwin. *Ties That Bind: SM/Leather/Fetish Erotic Style- Issues, Communication, and Advice*, Daedalus Publishing, 1993. [ISBN 1-881943-09-7](https://zh.wikipedia.org/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1881943097).
 -   Pat Califia. *Sensuous Magic.* New York, Masquerade Books, 1993. [ISBN 1-56333-131-4](https://zh.wikipedia.org/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1563331314)
 -   Saez, Fernando y Viñuales, Olga, *Armarios de Cuero*, Ed. Bellaterra, 2007. [ISBN 84-7290-345-6](https://zh.wikipedia.org/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/8472903456)

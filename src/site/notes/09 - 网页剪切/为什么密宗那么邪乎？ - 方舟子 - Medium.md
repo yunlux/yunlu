@@ -1,15 +1,10 @@
 ---
-{"dg-publish":true,"dg-permalink":"mizong","permalink":"/mizong/","created":"2024-06-28T04:38:31.264+08:00","updated":"2024-07-09T15:45:05.393+08:00","dg-note-properties":{"page-title":"为什么密宗那么邪乎？ - 方舟子 - Medium","url":"https://fangshimin.medium.com/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%86%E5%AE%97%E9%82%A3%E4%B9%88%E9%82%AA%E4%B9%8E-d4b68342f172","date":"2024-06-28 04:38:06"}}
+{"dg-publish":true,"dg-permalink":"mizong","permalink":"/mizong/","created":"2024-06-28T04:38:31.264+08:00","updated":"2026-08-15T07:57:33.510+08:00","dg-note-properties":{"page-title":"为什么密宗那么邪乎？ - 方舟子 - Medium","url":"https://fangshimin.medium.com/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%86%E5%AE%97%E9%82%A3%E4%B9%88%E9%82%AA%E4%B9%8E-d4b68342f172","date":"2024-06-28 04:38:06"}}
 ---
 
 ## 为什么密宗那么邪乎？
 
 [
-
-![方舟子](https://miro.medium.com/v2/resize:fill:88:88/0*8_c2cIGhU7X2_b3L.png)
-
-
-
 ](https://fangshimin.medium.com/?source=post_page-----d4b68342f172--------------------------------)
 
 在达赖喇嘛的追随者中，有一些是“海外民运”，其中有王力雄、唯色夫妇。他们在推特上回忆说，20年前，他们曾在拉萨的一个藏人大院住了一段时间，有一个邻居得了中风，很严重，就请活佛来治疗。活佛拿了一瓶“圣水”念经，但加持最关键的一步是活佛往“圣水”里吐口水，让病人喝下去。治疗三次之后，病人病情大为好转，本来瘫痪在床，后来可以坐起来了。王力雄、唯色看到机会难得，也去分了一些活佛的口水吃下去。吃别人的口水，在一般人看来很恶心，但在王力雄、唯色看来，活佛的口水是灵丹妙药，吃了有病治病、无病强身。

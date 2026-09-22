@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/Arduino UNO R4 Wifi 官方文档 - UltiRobot/","created":"2024-09-26T19:08:33.677+08:00","updated":"2024-09-26T19:08:33.678+08:00","dg-note-properties":{"page-title":"Arduino UNO R4 Wifi 官方文档 - UltiRobot","url":"http://ultirobot.com/arduino-uno-r4-wifi/","date":"2024-09-26 19:08:31"}}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/Arduino UNO R4 Wifi 官方文档 - UltiRobot/","created":"2024-09-26T19:08:33.677+08:00","updated":"2026-08-15T07:57:33.364+08:00","dg-note-properties":{"page-title":"Arduino UNO R4 Wifi 官方文档 - UltiRobot","url":"http://ultirobot.com/arduino-uno-r4-wifi/","date":"2024-09-26 19:08:31"}}
 ---
 
 ## Arduino UNO R4 WiFi 开发板
@@ -65,7 +65,7 @@ Arduino UNO R4 WiFi与Arduino IoT Cloud兼容，这是一个云服务，允许�
 UNO R4 WiFi采用了强大且非常稳健的瑞萨微控制器，该控制器也用于UNO R4 Minima上。瑞萨的微控制器以其高性能和稳健性而闻名，包括其内置的外设集。
 
 这些外设包括模数转换器、定时器、脉冲宽度调制（PWM）单元、通信接口（例如UART、SPI和I2C）等。  
-[![](https://arduino.me/storage/v1/object/public/image/249c3c4cdcc71ff8bae976e4b23bc2f9.webp)](https://arduino.me/storage/v1/object/public/image/249c3c4cdcc71ff8bae976e4b23bc2f9.webp)  
+[](https://arduino.me/storage/v1/object/public/image/249c3c4cdcc71ff8bae976e4b23bc2f9.webp)  
 微控制器在UNO R4 WiFi上
 
 ## 内存
@@ -256,7 +256,7 @@ UNO R4 WiFi 还包含一个最高 12 位分辨率的 DAC，它可以作为真正
 analogWrite(pin, value);
 ```
 
-[![](https://arduino.me/storage/v1/object/public/image/437179c69f2da045d969395d1d612724.webp)](https://arduino.me/storage/v1/object/public/image/437179c69f2da045d969395d1d612724.webp)  
+[](https://arduino.me/storage/v1/object/public/image/437179c69f2da045d969395d1d612724.webp)  
 DAC 引脚  
 此 DAC 引脚默认的写入分辨率为 8 位。这意味着写入到引脚的值应该在 0-255 之间。  
 但是，如果需要，您可以将此写入分辨率更改为最高 12 位，在这种情况下，您写入到引脚的值应该在 0-4096 之间。
@@ -327,7 +327,7 @@ EEPROM.read(address);
 
 ## SPI
 
-[![](https://arduino.me/storage/v1/object/public/image/67544b629632d11afa4b2b9ec011836c.webp)](https://arduino.me/storage/v1/object/public/image/67544b629632d11afa4b2b9ec011836c.webp)  
+[](https://arduino.me/storage/v1/object/public/image/67544b629632d11afa4b2b9ec011836c.webp)  
 UNO R4 WiFi 特色的是一个串行外围接口（SPI）总线。总线（连接器）'SPI' 使用以下引脚：  
 (COPI) - D11  
 (CIPO) - D12  
@@ -365,7 +365,7 @@ UNO R4 WiFi 上用于 I2C 的引脚如下：
 -   SDA - D14
 -   SCL - D15
 
-[![](https://arduino.me/storage/v1/object/public/image/3caab390668fe8431745c27e48ec486d.webp)](https://arduino.me/storage/v1/object/public/image/3caab390668fe8431745c27e48ec486d.webp)  
+[](https://arduino.me/storage/v1/object/public/image/3caab390668fe8431745c27e48ec486d.webp)  
 I2C 引脚  
 要连接 I2C 设备，您需要在草图的顶部包含 Wire 库。
 
@@ -392,7 +392,7 @@ Wire.endTransmission(); // 停止传输
 
 ## QWIIC连接器
 
-[![](https://arduino.me/storage/v1/object/public/image/7e6dc9b5b959d70751f429fdc7266d65.webp)](https://arduino.me/storage/v1/object/public/image/7e6dc9b5b959d70751f429fdc7266d65.webp)  
+[](https://arduino.me/storage/v1/object/public/image/7e6dc9b5b959d70751f429fdc7266d65.webp)  
 UNO WiFi R4 上的 Qwiic 连接器  
 UNO R4 WiFi 上的 Qwiic 连接器连接到第二个 I2C 总线（IIC0），它使用 Wire1 对象而不是 Wire 对象。请注意，Qwiic 连接器仅为 3.3 V。  
 UNO R4 WiFi 特色的是一个 Qwiic/STEMMA 连接器，您可以使用它来连接模块，通常允许您通过单个连接器串联连接多个模块并控制它们。  
@@ -587,13 +587,13 @@ ESP32还暴露了ESP32的数据线，以便您可以直接对ESP32进行编程�
 
 > 请注意，ESP32安装有默认固件，设置为与RA4M1芯片通信。任何对ESP32的直接编程都将覆盖该固件，直到恢复默认固件之前，芯片之间的通信可能会中断。
 
-[![](https://arduino.me/storage/v1/object/public/image/2677b875ea01dfbb03652c6718a3cb45.webp)](https://arduino.me/storage/v1/object/public/image/2677b875ea01dfbb03652c6718a3cb45.webp)  
+[](https://arduino.me/storage/v1/object/public/image/2677b875ea01dfbb03652c6718a3cb45.webp)  
 UNO R4 & UNO R3
 
 ### USB桥
 
 默认情况下，ESP32充当计算机和RA4M1 MCU之间的串行桥。USB数据线通过开关路由，这些开关默认设置为通过ESP32模块进行通信。  
-[![](https://arduino.me/storage/v1/object/public/image/3c4f40f98cb870333cd1044bce67bd08.webp)](https://arduino.me/storage/v1/object/public/image/3c4f40f98cb870333cd1044bce67bd08.webp)  
+[](https://arduino.me/storage/v1/object/public/image/3c4f40f98cb870333cd1044bce67bd08.webp)  
 串行通信开关  
 如果您愿意，可以更改此设置并直接访问RA4M1 MCU上的串行总线，无论是使用软件还是硬件。请参阅下面的说明：  
 1\. 软件 - 通过将D21拉高至HIGH，您将关闭控制哪个MCU连接到USB的电路。当D21为HIGH时，RA4M1连接到USB串行端口，当D21为LOW时，ESP32连接，如默认配置。您可以通过在void setup()中包含以下代码来实现这一点
@@ -604,7 +604,7 @@ digitalWrite(21, HIGH);
 ```
 
 2\. 在UNO R4 WiFi的背面，您会找到标有"RA4M1 USB"的焊盘。如果您在这些焊盘之间创建短路，例如用焊锡在它们之间创建桥接，RA4M1将连接到USB串行端口，而不是ESP32。  
-[![](https://arduino.me/storage/v1/object/public/image/f081e63703bf9bf82b8e59a06b2c24f5.webp)](https://arduino.me/storage/v1/object/public/image/f081e63703bf9bf82b8e59a06b2c24f5.webp)  
+[](https://arduino.me/storage/v1/object/public/image/f081e63703bf9bf82b8e59a06b2c24f5.webp)  
 RA4M1 USB焊盘
 
 ### Wi-Fi®
@@ -660,8 +660,8 @@ ESP32模块和Renesas RA4M1芯片是一个复杂的USB-串行系统的一部分�
 > 注意：要重新编程ESP32模块，您需要在重置开发板时将ESP\_Download引脚短接至GND。这将使ESP32模块进入引导加载程序状态，在该状态下您可以与之建立连接并重新编程模块。
 
 要重新编程ESP32开发板，您可以在ESP32模块旁边找到UART焊盘，其布局如下图所示：  
-[![](https://arduino.me/storage/v1/object/public/image/21cf7bdd8f9d9323153022d39d08a5c2.webp)](https://arduino.me/storage/v1/object/public/image/21cf7bdd8f9d9323153022d39d08a5c2.webp)  
+[](https://arduino.me/storage/v1/object/public/image/21cf7bdd8f9d9323153022d39d08a5c2.webp)  
 暴露的ESP32数据焊盘  
 或者您可以直接使用ESP32排针上暴露的引脚，如下所示：  
-[![](https://arduino.me/storage/v1/object/public/image/01467c9f8030270bbabf20fcae6af6e9.webp)](https://arduino.me/storage/v1/object/public/image/01467c9f8030270bbabf20fcae6af6e9.webp)  
+[](https://arduino.me/storage/v1/object/public/image/01467c9f8030270bbabf20fcae6af6e9.webp)  
 ESP32数据引脚排针

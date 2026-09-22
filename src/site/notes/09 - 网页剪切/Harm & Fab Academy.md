@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/Harm & Fab Academy/","created":"2024-09-15T19:47:26.610+08:00","updated":"2024-09-15T19:47:26.611+08:00","dg-note-properties":{"page-title":"Harm & Fab Academy","url":"http://fabacademy.org/2020/labs/waag/students/harm-vanvugt/posts/2020/01/01/thermoInks.html","date":"2024-09-15 19:47:24"}}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/Harm & Fab Academy/","created":"2024-09-15T19:47:26.610+08:00","updated":"2026-08-15T07:57:33.383+08:00","dg-note-properties":{"page-title":"Harm & Fab Academy","url":"http://fabacademy.org/2020/labs/waag/students/harm-vanvugt/posts/2020/01/01/thermoInks.html","date":"2024-09-15 19:47:24"}}
 ---
 
 During the months I have been expirimenting with these inks & Dyes.
@@ -52,11 +52,11 @@ Conclusion: this 31°C mixed with epoxi is working very well!
 
 ### 47°C SFXC screen Ink (11 march)
 
-I bought 47°C thermocromatic paint, Black and Red at [sfxc.co.uk](https://www.sfxc.co.uk/collections/thermochromic-paint/products/thermochromic-screen-printing-ink-black-47-c) ![](http://fabacademy.org/2020/labs/waag/students/harm-vanvugt/assets/images/finalAssignment/thermotest47C.jpg) Conclusion: this is working well. But the temperature of 47C is really high
+I bought 47°C thermocromatic paint, Black and Red at [sfxc.co.uk](https://www.sfxc.co.uk/collections/thermochromic-paint/products/thermochromic-screen-printing-ink-black-47-c)  Conclusion: this is working well. But the temperature of 47C is really high
 
 ### 42°C nailpolisch (1 febr) and nichrome wire
 
-I borrowed nailpolisch 42°C, I used Nichrome and a power supply and a NickCrome wire to heat it. ![](http://fabacademy.org/2020/labs/waag/students/harm-vanvugt/assets/images/finalAssignment/thermotest4.jpg) ![](http://fabacademy.org/2020/labs/waag/students/harm-vanvugt/assets/images/finalAssignment/thermotest5.jpg)
+I borrowed nailpolisch 42°C, I used Nichrome and a power supply and a NickCrome wire to heat it.  
 
 ### 30°C Dye from Hackerstore (28 febr)
 
@@ -64,7 +64,7 @@ I did a test with Thermochromic Pigment. Borrowed from the [Loes Bogers](https:/
 
 | In the fridge | Hand warmed | left in the room for 1 hour |
 | --- | --- | --- |
-| ![](http://fabacademy.org/2020/labs/waag/students/harm-vanvugt/assets/images/finalAssignment/thermotest1.jpg) | ![](http://fabacademy.org/2020/labs/waag/students/harm-vanvugt/assets/images/finalAssignment/thermotest2.jpg) | ![](http://fabacademy.org/2020/labs/waag/students/harm-vanvugt/assets/images/finalAssignment/thermotest3.jpg) |
+|  |  |  |
 
 ---
 
@@ -90,20 +90,17 @@ Since the esp/arduino boards have only a few outputs and I Want 30 hours of fore
 
 -   Multiplexer. A multiplexer IC [Datasheet CD4052](https://www.alldatasheet.com/datasheet-pdf/pdf/8180/NSC/CD4052BM.html)
 -   Create a multiplexer board
--   The [MC74HC4067A](https://www.onsemi.com/pub/Collateral/MC74HC4067A-D.PDF) runs on 2 to 6 volt and offers a 4 input to 16 chanel output ![](http://fabacademy.org/2020/labs/waag/students/harm-vanvugt/assets/images/finalAssignment/thermotest47C.jpg)
+-   The [MC74HC4067A](https://www.onsemi.com/pub/Collateral/MC74HC4067A-D.PDF) runs on 2 to 6 volt and offers a 4 input to 16 chanel output 
 
 ## Heating the paint
 
-1.  Wire: [Nichrome](https://en.wikipedia.org/wiki/Nichrome) 27 march I received the Wire via Aliexpress. This are the specs from the site of the seller: ![](http://fabacademy.org/2020/labs/waag/students/harm-vanvugt/assets/images/finalAssignment/NiChromeWireTable.jpg)
+1.  Wire: [Nichrome](https://en.wikipedia.org/wiki/Nichrome) 27 march I received the Wire via Aliexpress. This are the specs from the site of the seller: 
 
 How to calculate the temperature in a nichrome wire? [https://www.youtube.com/watch?v=QNS0LrlRHbs](https://www.youtube.com/watch?v=QNS0LrlRHbs)
 
 1.  Heat path made from Carbon fibers
 
-[The heat paths I’ve ordered](https://www.aliexpress.com/snapshot/0.html?spm=a2g0s.9042647.0.0.47c44c4dlyFlEz&orderId=3003222997732225&productId=32959270697) ![](http://fabacademy.org/2020/labs/waag/students/harm-vanvugt/assets/images/finalAssignment/heatpaths.jpg)
+[The heat paths I’ve ordered](https://www.aliexpress.com/snapshot/0.html?spm=a2g0s.9042647.0.0.47c44c4dlyFlEz&orderId=3003222997732225&productId=32959270697) 
+I tried to make a heatpath with multiple angels, to display 8 different times. 
 
-![](http://fabacademy.org/2020/labs/waag/students/harm-vanvugt/assets/images/finalAssignment/heatpaths2.jpg) ![](http://fabacademy.org/2020/labs/waag/students/harm-vanvugt/assets/images/finalAssignment/heatpaths3.jpg) ![](http://fabacademy.org/2020/labs/waag/students/harm-vanvugt/assets/images/finalAssignment/heatpaths3.jpg)
-
-I tried to make a heatpath with multiple angels, to display 8 different times. ![](http://fabacademy.org/2020/labs/waag/students/harm-vanvugt/assets/images/finalAssignment/carbonClock.jpg)
-
-But keeping the wires attached to the heatpath was a struggle. The heat was not evenly divided on the path. And the center became very hot. ![](http://fabacademy.org/2020/labs/waag/students/harm-vanvugt/assets/images/finalAssignment/heatCarbon1.jpg)
+But keeping the wires attached to the heatpath was a struggle. The heat was not evenly divided on the path. And the center became very hot. 
