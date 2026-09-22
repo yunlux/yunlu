@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"dg-permalink":"cpp","permalink":"/cpp/","created":"2024-09-26T18:25:32.213+08:00","updated":"2024-09-26T18:27:24.191+08:00","dg-note-properties":{"page-title":"Learn C++ in Y Minutes","url":"https://learnxinyminutes.com/docs/zh-cn/c++-cn/","date":"2024-09-26 18:25:31"}}
+{"dg-publish":true,"dg-permalink":"cpp","permalink":"/cpp/","created":"2024-09-26T18:25:32.213+08:00","updated":"2026-08-15T07:49:59.261+08:00","dg-note-properties":{"page-title":"Learn C++ in Y Minutes","url":"https://learnxinyminutes.com/docs/zh-cn/c++-cn/","date":"2024-09-26 18:25:31"}}
 ---
-
-
 
 
 C++是一种系统编程语言。用它的发明者， [Bjarne Stroustrup的话](http://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Keynote)来说，C++的设计目标是：
@@ -13,7 +11,6 @@ C++是一种系统编程语言。用它的发明者， [Bjarne Stroustrup的话
 - 支持泛型编程
 
 C++提供了对硬件的紧密控制（正如C语言一样）， 能够编译为机器语言，由处理器直接执行。 与此同时，它也提供了泛型、异常和类等高层功能。 虽然C++的语法可能比某些出现较晚的语言更复杂，它仍然得到了人们的青睞—— 功能与速度的平衡使C++成为了目前应用最广泛的系统编程语言之一。
-
 
 ```C++
 
@@ -61,7 +58,7 @@ int* ip = nullptr;
 
 // C++也可以使用C语言的标准头文件，
 // 但是需要加上前缀“c”并去掉末尾的“.h”。
-#include <cstdio>
+#include 
 
 int main()
 {
@@ -162,7 +159,7 @@ int main()
 // cin、cout、和cerr分别代表
 // stdin（标准输入）、stdout（标准输出）和stderr（标准错误）。
 
-#include <iostream> // 引入包含输入/输出流的头文件
+#include  // 引入包含输入/输出流的头文件
 
 using namespace std; // 输入输出流在std命名空间（也就是标准库）中。
 
@@ -177,7 +174,7 @@ int main()
 
    // cout也提供了格式化功能
    cout << "Your favorite number is " << myInt << "\n";
-   // 显示“Your favorite number is <myInt>”
+   // 显示“Your favorite number is ”
 
    cerr << "Used for error messages";
 }
@@ -187,7 +184,7 @@ int main()
 /////////
 
 // C++中的字符串是对象，它们有很多成员函数
-#include <string>
+#include 
 
 using namespace std; // 字符串也在std命名空间（标准库）中。
 
@@ -235,7 +232,7 @@ barRef += ". Hi!"; // 这是错误的，不能修改一个常量引用的值。
 ///////////////////
 
 // 有关类的第一个示例
-#include <iostream>
+#include 
 
 // 声明一个类。
 // 类通常在头文件（.h或.hpp）中声明。
@@ -343,10 +340,10 @@ void OwnedDog::setOwner(const std::string& dogsOwner)
 void OwnedDog::print() const
 {
     Dog::print(); // 调用基类Dog中的print方法
-    // "Dog is <name> and weights <weight>"
+    // "Dog is  and weights "
 
     std::cout << "Dog is owned by " << owner << "\n";
-    // "Dog is owned by <owner>"
+    // "Dog is owned by "
 }
 
 /////////////////////
@@ -357,7 +354,7 @@ void OwnedDog::print() const
 // 你可以重载+、-、*、/等运算符的行为。
 // 当运算符被使用时，这些特殊函数会被调用，从而实现运算符重载。
 
-#include <iostream>
+#include 
 using namespace std;
 
 class Point {
@@ -418,7 +415,7 @@ int main () {
 // 标准库中提供了一些基本的异常类型
 // （参见http://en.cppreference.com/w/cpp/error/exception）
 // 但是，其他任何类型也可以作为一个异常被拋出
-#include <exception>
+#include 
 
 // 在_try_代码块中拋出的异常可以被随后的_catch_捕获。
 try {
@@ -553,6 +550,5 @@ void doSomethingWithAFile(const std::string& filename)
 // - 各种数据容器，例如标准库中的链表、向量（容量自动扩展的数组）、散列表等；
 //   当它们脱离作用域时，析构器会自动释放其中储存的内容。
 // - 用lock_guard和unique_lock实现的互斥
-
 
 ```

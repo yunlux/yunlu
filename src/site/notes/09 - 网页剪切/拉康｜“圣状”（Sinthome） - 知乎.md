@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/拉康｜“圣状”（Sinthome） - 知乎/","created":"2024-08-03T20:16:48.229+08:00","updated":"2024-08-03T20:16:48.230+08:00","dg-note-properties":{"page-title":"拉康｜“圣状”（Sinthome） - 知乎","url":"https://zhuanlan.zhihu.com/p/646915170","date":"2024-08-03 20:16:47"}}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/拉康｜“圣状”（Sinthome） - 知乎/","created":"2024-08-03T20:16:48.229+08:00","updated":"2026-08-15T07:57:34.134+08:00","dg-note-properties":{"page-title":"拉康｜“圣状”（Sinthome） - 知乎","url":"https://zhuanlan.zhihu.com/p/646915170","date":"2024-08-03 20:16:47"}}
 ---
-
-![](https://pic4.zhimg.com/v2-26800dad4510b3651a9508a46c10894f_b.jpg)
 
 "Sinthome"是法国精神分析学家雅克·拉康提出的概念，他在后期的研讨会上首次介绍了这一概念。
 

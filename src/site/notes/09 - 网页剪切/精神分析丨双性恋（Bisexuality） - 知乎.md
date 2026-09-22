@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/精神分析丨双性恋（Bisexuality） - 知乎/","created":"2024-08-03T20:18:31.613+08:00","updated":"2024-08-03T20:18:31.614+08:00","dg-note-properties":{"page-title":"精神分析丨双性恋（Bisexuality） - 知乎","url":"https://zhuanlan.zhihu.com/p/691254358","date":"2024-08-03 20:18:30"}}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/精神分析丨双性恋（Bisexuality） - 知乎/","created":"2024-08-03T20:18:31.613+08:00","updated":"2026-08-15T07:57:34.536+08:00","dg-note-properties":{"page-title":"精神分析丨双性恋（Bisexuality） - 知乎","url":"https://zhuanlan.zhihu.com/p/691254358","date":"2024-08-03 20:18:30"}}
 ---
-
-![](https://pic4.zhimg.com/v2-a7b5c3c4eaeb321e4e16bdcc8d2eecd7_b.jpg)
 
 双性恋：一个从两个来源进入精神分析语境的概念：一是克拉夫特-艾宾（Krafft-Ebing，1892）和哈维洛克·埃利斯（Havelock Ellis，1894、1903、1905）对性行为的研究，二是西格蒙德·弗洛伊德与他尊敬的朋友威廉·弗利斯（Wilhelm Fliess）之间的通信（马松，1985）。第一个来源强调了双性恋的行为方面，详细描述了人们生活中异性恋和同性恋实践的各种组合。第二个来源强调了双性恋的生物学基础（例如，胚胎学、解剖学、生理学），并扩展到心理学方面。
 

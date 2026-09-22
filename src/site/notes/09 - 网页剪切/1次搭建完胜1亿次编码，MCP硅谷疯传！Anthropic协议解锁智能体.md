@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/1次搭建完胜1亿次编码，MCP硅谷疯传！Anthropic协议解锁智能体/","title":"1次搭建完胜1亿次编码，MCP硅谷疯传！Anthropic协议解锁智能体","tags":["网页剪切"],"created":"2025-03-18T00:16:20.757+08:00","updated":"2025-03-18T00:16:34.803+08:00","dg-note-properties":{"title":"1次搭建完胜1亿次编码，MCP硅谷疯传！Anthropic协议解锁智能体","source":"https://baijiahao.baidu.com/s?id=1826187428653369347&wfr=spider&for=pc","author":null,"published":null,"created":"2025-03-18","description":null,"tags":["网页剪切"]}}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/1次搭建完胜1亿次编码，MCP硅谷疯传！Anthropic协议解锁智能体/","title":"1次搭建完胜1亿次编码，MCP硅谷疯传！Anthropic协议解锁智能体","tags":["网页剪切"],"created":"2025-03-18T00:16:20.757+08:00","updated":"2026-08-15T07:57:33.343+08:00","dg-note-properties":{"title":"1次搭建完胜1亿次编码，MCP硅谷疯传！Anthropic协议解锁智能体","source":"https://baijiahao.baidu.com/s?id=1826187428653369347&wfr=spider&for=pc","author":null,"published":null,"created":"2025-03-18","description":null,"tags":["网页剪切"]}}
 ---
 
 [百度首页](https://www.baidu.com/)
@@ -27,21 +27,10 @@
 其中，第二趴是让智能体「动起来」的关键，真正与现实世界进行交互。
 
 举个例子，当前最强的开源复现OWL在查找伦敦今日放映的电影时，AI智能体主动调用Chrome搜索工具后，精准返回影院的实时信息。
-
-![](https://pic.rmb.bdstatic.com/bjh/250310/dump/cf087495a7e12a2f143c6bb2a92161cd.gif)
-
 而最火的开源项目OpenMauns，在查找Karpathy个人信息主页信息时，也是基于强大的工具使用能力。
-
-![](https://pic.rmb.bdstatic.com/bjh/250310/dump/9fa0ec07f103ef237ebd16f7919aee8e.gif)
-
 这些案例生动地证明了，工具使用，能让智能体跳出空想局限，进化出会做事的能力。
 
 而作为最强的标准化接口协议，MCP也在一夜间爆红硅谷，无人不知。
-
-![](https://pics4.baidu.com/feed/e850352ac65c1038681093968886171cb17e899a.jpeg@f_auto?token=da45a9a4e49d4fbe2ab70001452dd16b)
-
-![](https://pics2.baidu.com/feed/bba1cd11728b47100a699e77f95947f2fd032369.jpeg@f_auto?token=75f251a6d117e26df3ecd6f8d066171b)
-
 对于圈外的人来说，可能对此有所陌生。而它的本质，就是智能体系统的一种。
 
 **一次搭建，代替1亿次配置**
@@ -59,17 +48,11 @@
 **安全性和合规性：**内置访问控制机制和标准化的安全实践
 
 **可扩展性：**随着AI生态系统的扩展，只需连接新的MCP服务器即可轻松添加新功能
-
-![](https://pics3.baidu.com/feed/5882b2b7d0a20cf41c7c4e174d9ecf39aeaf99b4.jpeg@f_auto?token=37fcbcd9ce55c31d975cba32f7f9564a)
-
 用通俗的话讲，MCP就像是专为AI应用设计的通用接口，类似我们日常使用的USB-C。
 
 正如USB-C简化了不同设备与计算机的连接方式，MCP简化了AI模型与数据、工具和服务之间的交互方式。
 
 通过MCP，AI助手不仅能够「读懂」代码，还能「理解」团队讨论、涉及文档等外部信息，提供更加精准的回答。
-
-![](https://pics4.baidu.com/feed/aa18972bd40735fa4f6701aca5c68bbc0e2408b2.jpeg@f_auto?token=3ce068dc3c1fd11a6a2872b7b93f60ba)
-
 MCP是一种标准化协议，用于连接AI智能体与各种外部工具和数据源
 
 相比之下，在没有MCP之前，AI助手要想与外部工具互动，必须通过编写代码并调用API，这意味着每一种具体的连接都需要提前手动编程，效率低下且耗时费力。
@@ -77,9 +60,6 @@ MCP是一种标准化协议，用于连接AI智能体与各种外部工具和数
 更棘手的是，每个AI助手与每个外部工具之间都需要单独进行配置。如果有1000个AI助手和1000个外部工具，理论上需要编写1000×1000=100万个独立的连接代码，工作量简直是个天文数字。
 
 打个比方：API就像是不同的门，其中每扇门都有自己独特的钥匙和使用规则：
-
-![](https://pics7.baidu.com/feed/d009b3de9c82d15834df9da9bb9d9dd7bd3e42f4.jpeg@f_auto?token=cea344ccc3d7a57e486eb9f48e856bc9)
-
 传统API要求开发人员为每个服务或数据源编写定制化的集成代码
 
 而MCP的出现就像为AI助手和外部系统打造了一套通用的「标准语言」，堪称是智能体生态的一次「标准化革命」。
@@ -101,9 +81,6 @@ MCP的灵活性也非常突出，它既可以在云端运行，也可以在本�
 **什么是MCP？**
 
 正如前文所说，MCP（Model Context Protocol）是一种新的开放协议，目的是为LLM提供标准化的上下文信息传递方式，从而实现AI智能体与外部数据及工具的结合。
-
-![](https://pics3.baidu.com/feed/902397dda144ad343664f207ea3588fb33ad85f9.jpeg@f_auto?token=a07a71c5825528f6e83f90e0d3080bfe)
-
 和传统的API相比，MCP的区别在于：
 
 **单一协议：**MCP作为一种标准化的「通用接口」，集成一个MCP意味着可以访问多个工具和服务，而不仅仅是单一服务。
@@ -117,9 +94,6 @@ MCP的灵活性也非常突出，它既可以在云端运行，也可以在本�
 **拉取数据：**LLM向服务器查询上下文信息。例如，查看你的日历安排。
 
 **触发操作：**LLM指示服务器执行具体操作。例如，重新安排会议、发送电子邮件。
-
-![](https://pics5.baidu.com/feed/bba1cd11728b4710e5c164f6f85947f2fd032340.jpeg@f_auto?token=98b5ebfe972582b0252393633fd7a878)
-
 不过，如果应用场景需要精确、可预测的交互模式，并有严格的限制条件，传统API可能更为适合。
 
 MCP提供了广泛、动态的能力，非常适合需要灵活性和上下文感知的场景，但对于高度受控的、确定性的应用可能不是最佳选择。
@@ -147,37 +121,22 @@ MCP采用简单的客户端-服务器架构模式：
 **远程服务：**MCP服务器访问的基于互联网的外部API或服务
 
 将MCP比作一座桥梁可以更清晰地理解：MCP本身不处理复杂逻辑；它只是协调AI模型和各种工具之间的数据和指令流通。
-
-![](https://pics5.baidu.com/feed/6159252dd42a2834eca2bfdb60224de514cebf05.jpeg@f_auto?token=b2a831d2bcf271ce379f7fb0c485950e)
-
 具体来说，服务器就是与API进行交互的东西。它可以在远程服务器上（例如，在云上），或者在你的本地系统上。
 
 它包含了所有系统上需要与之交互进而采取行动的代码，比如发送Slack消息、创建文件等等。
 
 如下图所示，可以通过MCP服务，调用GitHub API在仓库里创建代码文件。
-
-![](https://pics0.baidu.com/feed/f636afc379310a55f39210d58cd2c7a683261087.jpeg@f_auto?token=4aaf8f49f32435efe94a02b76527e825)
-
 MCP客户端负责与服务器进行通信。客户端的一个非常酷的特点是它可以同时与多个服务器进行交互。
 
 所以你可以设置专门的服务器来处理GitHub交互和Slack交互，然后把它们接入同一个客户端。
-
-![](https://pics7.baidu.com/feed/b2de9c82d158ccbf37a110d0234f3831b0354165.jpeg@f_auto?token=3fb5f2bfa1b2d6df6ff16f8d9f88fc55)
-
 最重要的，协议是使一切运作的关键。可以将它视为一种永远不会改变的通用语言，MCP服务器和MCP客户端都能使用。
 
 它就像USB接口一样，用于将MCP客户端连接到MCP服务器。
 
 USB接口让手机连接到笔记本电脑，MCP协议让你可以将第三方API连接到桌面应用程序。
-
-![](https://pics2.baidu.com/feed/dbb44aed2e738bd4697cffde9a1c03d9267ff923.jpeg@f_auto?token=d42bc81b30a1980a3268d3eca872672e)
-
 针对各种类型的MCP客户端，Total TypeScript的作者Matt Pocock还进行了一波对比。
 
 可以看到，Claude Desktop和Continue支持资源、提示、工具，功能很全面。5ire和BeeAI Framework就比较有限，工具支持还可以，但其他方面基本不行。Cline也支持资源和工具，但不支持提示。Cursor和Emacs Mcp主要支持工具，其他功能都不行，适合简单工具操作。
-
-![](https://pics5.baidu.com/feed/3801213fb80e7bec03335c0615b93d3799506b96.jpeg@f_auto?token=dff40c33552b849c20db55ac0c49d948)
-
 应用场景
 
 在实际应用中，MCP客户端（例如，client.py中的Python脚本）会与管理各种特定工具（如Gmail、Slack或日历应用）交互的MCP服务器进行通信。
@@ -219,13 +178,7 @@ MCP集成流程：
 **MCP用例爆发**
 
 大模型爆火之后，提示工程师成为新型职业。如今，已经有大佬建议，开发者们赶快去构建商业化MCP服务器吧。
-
-![](https://pics1.baidu.com/feed/377adab44aed2e736991c3d1bd96258486d6fa7e.jpeg@f_auto?token=a06677e111851f16d4128d92bde4d32f)
-
 Total TypeScript的作者Matt Pocock仅用28行代码就开发出了一个MCP服务器。
-
-![](https://pics6.baidu.com/feed/bd315c6034a85edffea9a0d872c38d2cdc54754e.jpeg@f_auto?token=6e75cf4c1f57e504b0441cd2f7225033)
-
 Cursor+MCP梦幻联动，即可迅速构建出客户需求的功能，全程无需人类干预。
 
 对于码农来说，又是效率的一次极致提升。AI不仅能帮你写代码，还能自动完成从需求分析到功能上线的全流程。
@@ -233,25 +186,13 @@ Cursor+MCP梦幻联动，即可迅速构建出客户需求的功能，全程无�
 客户通过Slack发送功能需求，Cursor自动读取消息、构建功能，并创建Pull Request
 
 前Meta研究员、CopilotKit创始人Atai Barkai刚刚开源了一个Open MCP Client的项目。
-
-![](https://pics1.baidu.com/feed/f3d3572c11dfa9ecfb6a99925847730c908fc112.jpeg@f_auto?token=8d88fee15281668cea9e4d555e241f40)
-
 它可以让任何应用，直接与MCP服务器直接对话，实现更更多智能的功能。
 
 只需从Composio中获取一个URL，开发者即可在自己的应用中集成这个MCP的能力，无需从0开发。
-
-![](https://pics1.baidu.com/feed/7e3e6709c93d70cf2f8b72eac24b550fbba12b0e.jpeg@f_auto?token=db6e70ed73a5c719dcd191c43bc9f635)
-
 项目地址：https://open-mcp-client.vercel.app/
 
 Agno的开发者Ashpreet Bedi打造了一款「通用MCP智能体」UAgl，可以借此轻松连接和管理多个MCP服务器。
-
-![](https://pics1.baidu.com/feed/ac4bd11373f082025771872a706c7fe2aa641b6d.jpeg@f_auto?token=b22788c3d615379991a1451581b8e0dd)
-
 开发者Will Brown开源了MCP Test Client，可以在开发过程中测试MCP服务器时既充当服务器（对Claude而言），又充当客户端（对被测试的服务器而言）。
-
-![](https://pics2.baidu.com/feed/7aec54e736d12f2eff96e7447355516d843568ad.jpeg@f_auto?token=bd85f7cc0c99445a641e68283c2248e6)
-
 相关搜索
 
 [MIT开源协议](https://baidu.com/s?word=MIT%E5%BC%80%E6%BA%90%E5%8D%8F%E8%AE%AE&rsv_dl=feed_landingpage_rs&from=1020853i&rsf=2 "MIT开源协议")[mcfo项目](https://baidu.com/s?word=mcfo%E9%A1%B9%E7%9B%AE&rsv_dl=feed_landingpage_rs&from=1020853i&rsf=2 "mcfo项目")[MIT开源协议的使用风险](https://baidu.com/s?word=MIT%E5%BC%80%E6%BA%90%E5%8D%8F%E8%AE%AE%E7%9A%84%E4%BD%BF%E7%94%A8%E9%A3%8E%E9%99%A9&rsv_dl=feed_landingpage_rs&from=1020853i&rsf=2 "MIT开源协议的使用风险")[mit 协议](https://baidu.com/s?word=mit%20%E5%8D%8F%E8%AE%AE&rsv_dl=feed_landingpage_rs&from=1020853i&rsf=2 "mit 协议")
@@ -298,7 +239,7 @@ Agno的开发者Ashpreet Bedi打造了一款「通用MCP智能体」UAgl，可�
 
 ## 作者最新文章
 
-[![](https://t10.baidu.com/it/u=2005166771,260944914&fm=30&app=106&f=JPEG?w=312&h=208&s=D58204F79E9B00D848B5E5B003007012)](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9933714195486873976%22%7D&n_type=1&p_from=3)
+[](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9933714195486873976%22%7D&n_type=1&p_from=3)
 
 [
 
@@ -308,7 +249,7 @@ Agno的开发者Ashpreet Bedi打造了一款「通用MCP智能体」UAgl，可�
 
 3小时前80阅读
 
-[![](https://t10.baidu.com/it/u=909194185,260936077&fm=30&app=106&f=JPEG?w=312&h=208&s=A4F371941B1337DA00C75F8B0300F09C)](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10286792401712884731%22%7D&n_type=1&p_from=3)
+[](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10286792401712884731%22%7D&n_type=1&p_from=3)
 
 [
 
@@ -318,7 +259,7 @@ Agno的开发者Ashpreet Bedi打造了一款「通用MCP智能体」UAgl，可�
 
 5小时前321阅读
 
-[![](https://t10.baidu.com/it/u=2235884745,260919213&fm=30&app=106&f=JPEG?w=312&h=208&s=24D4E03393076D4946D849FE03001032)](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9027181010082129086%22%7D&n_type=1&p_from=3)
+[](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9027181010082129086%22%7D&n_type=1&p_from=3)
 
 [
 
@@ -330,7 +271,7 @@ Agno的开发者Ashpreet Bedi打造了一款「通用MCP智能体」UAgl，可�
 
 ## 相关推荐
 
-[![](https://t10.baidu.com/it/u=909321973,260861442&fm=30&app=106&f=JPEG?w=312&h=208&s=BD1EAD5F13EBD4EE0855B1CF0100F033)](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10503807714730413430%22%7D&n_type=1&p_from=4)
+[](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10503807714730413430%22%7D&n_type=1&p_from=4)
 
 [
 
@@ -338,7 +279,7 @@ Agno的开发者Ashpreet Bedi打造了一款「通用MCP智能体」UAgl，可�
 
 ](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_10503807714730413430%22%7D&n_type=1&p_from=4)
 
-[![](https://t12.baidu.com/it/u=1039155402,260867416&fm=30&app=106&f=JPEG?w=312&h=208&s=58F2B8F2080302CE143AAD010300709B)](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9635672297235712962%22%7D&n_type=1&p_from=4)
+[](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9635672297235712962%22%7D&n_type=1&p_from=4)
 
 [
 
@@ -348,7 +289,7 @@ Agno的开发者Ashpreet Bedi打造了一款「通用MCP智能体」UAgl，可�
 
 [1评论](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9635672297235712962%22%7D&n_type=1&p_from=4)
 
-[![](https://t11.baidu.com/it/u=3240292367,260883109&fm=30&app=106&f=JPEG?w=312&h=208&s=BAC1A14C451009C25F6FB1110300D0D9)](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8930591340220396693%22%7D&n_type=1&p_from=4)
+[](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8930591340220396693%22%7D&n_type=1&p_from=4)
 
 [
 
@@ -356,7 +297,7 @@ Agno的开发者Ashpreet Bedi打造了一款「通用MCP智能体」UAgl，可�
 
 ](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_8930591340220396693%22%7D&n_type=1&p_from=4)
 
-[![](https://t12.baidu.com/it/u=4281241175,260859406&fm=30&app=106&f=JPEG?w=312&h=208&s=1C84D214045079CA081953D4030070B4)](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9510317062414861225%22%7D&n_type=1&p_from=4)
+[](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9510317062414861225%22%7D&n_type=1&p_from=4)
 
 [
 
@@ -364,7 +305,7 @@ Agno的开发者Ashpreet Bedi打造了一款「通用MCP智能体」UAgl，可�
 
 ](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9510317062414861225%22%7D&n_type=1&p_from=4)
 
-[![](https://t12.baidu.com/it/u=1958255019,260863410&fm=30&app=106&f=JPEG?w=312&h=208&s=F34160ACFE2382CE1A372D070300F098)](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9773157378639955169%22%7D&n_type=1&p_from=4)
+[](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9773157378639955169%22%7D&n_type=1&p_from=4)
 
 [
 

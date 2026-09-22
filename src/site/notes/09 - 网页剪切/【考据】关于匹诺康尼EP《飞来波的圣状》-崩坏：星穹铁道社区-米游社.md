@@ -1,17 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/【考据】关于匹诺康尼EP《飞来波的圣状》-崩坏：星穹铁道社区-米游社/","created":"2024-08-05T08:53:55.366+08:00","updated":"2024-08-05T08:53:55.368+08:00","dg-note-properties":{"page-title":"【考据】关于匹诺康尼EP《飞来波的圣状》-崩坏：星穹铁道社区-米游社","url":"https://www.miyoushe.com/sr/article/49346504","date":"2024-08-05 08:53:54"}}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/【考据】关于匹诺康尼EP《飞来波的圣状》-崩坏：星穹铁道社区-米游社/","created":"2024-08-05T08:53:55.366+08:00","updated":"2026-08-15T07:57:33.476+08:00","dg-note-properties":{"page-title":"【考据】关于匹诺康尼EP《飞来波的圣状》-崩坏：星穹铁道社区-米游社","url":"https://www.miyoushe.com/sr/article/49346504","date":"2024-08-05 08:53:54"}}
 ---
 
 一.标题
 
 飞来波Flapper, 意即刚离巢会飞的雏鸟，是爵士时代的文化，著名的有“飞来波女郎”
-
-![](https://upload-bbs.miyoushe.com/upload/2024/02/16/171709557/285306932cc8329ea2825698a9d597d9_6364673960491456191.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
-
 圣状（Sinthome）是法国精神分析学家雅克·拉康提出的概念，就是“症状”（symptôme）的升华（一体两面），可以成就个体独特的魅力，也是个体的天赋才华之所在
-
-![](https://upload-bbs.miyoushe.com/upload/2024/02/16/171709557/2175217b25b86627ea2e109b5134d8cb_8806767643129399408.webp?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,webp)
-
 拉康的理论主张无意识的结构就像一种语言，通过语言和象征系统，个体对其欲望和经验进行理解。"Sinthome"是对"波罗米亚结"的回应，"波罗米亚结"是拉康提出的另一个概念，它象征着人类心灵的三个层次：实在界、想象界和象征界。据拉康所言，这三个层次相互联系，相互依赖，共同构成了主体性。
 
 二.简介

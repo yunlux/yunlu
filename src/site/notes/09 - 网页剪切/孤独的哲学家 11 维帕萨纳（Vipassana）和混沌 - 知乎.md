@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/孤独的哲学家 11 维帕萨纳（Vipassana）和混沌 - 知乎/","created":"2024-08-11T21:26:49.415+08:00","updated":"2024-08-11T21:26:49.415+08:00","dg-note-properties":{"page-title":"孤独的哲学家 11 维帕萨纳（Vipassana）和混沌 - 知乎","url":"https://zhuanlan.zhihu.com/p/649781966","date":"2024-08-11 21:26:48"}}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/孤独的哲学家 11 维帕萨纳（Vipassana）和混沌 - 知乎/","created":"2024-08-11T21:26:49.415+08:00","updated":"2026-08-15T07:57:33.882+08:00","dg-note-properties":{"page-title":"孤独的哲学家 11 维帕萨纳（Vipassana）和混沌 - 知乎","url":"https://zhuanlan.zhihu.com/p/649781966","date":"2024-08-11 21:26:48"}}
 ---
 
 **Überwinde dein Wollen**
@@ -7,9 +7,6 @@
 **战胜你的意志**
 
 Jack Fereday veröffentlicht am 15 Oktober 2018 12 min
-
-![](https://pic2.zhimg.com/v2-83d96d6c317c2f23998d1d975d55bf45_b.jpg)
-
 Im nordindischen Bodhgaya soll Buddha zur Erleuchtung gelangt sein. Mittlerweile strömen zahllose Menschen aus dem Westen hierher, um durch die Vipassana-Meditation ihren inneren Frieden zu finden. Unser Reporter machte sich mit dieser asketischen Technik vertraut, die Entspannung und Kasteiung gleichermaßen verspricht.
 
 相传佛陀在印度北部的菩提伽耶悟道成佛。如今，无数西方人涌入这里，通过毘婆奢那（Vipassana）冥想寻找内心的平静。我们的记者了解了这种苦行僧式的冥想方法，它能让人在放松的同时达到修行的目的。

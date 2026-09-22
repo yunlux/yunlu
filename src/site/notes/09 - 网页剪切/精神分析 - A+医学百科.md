@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/09 - 网页剪切/精神分析 - A+医学百科/","created":"2024-08-23T21:00:42.537+08:00","updated":"2024-08-23T21:00:42.538+08:00","dg-note-properties":{"page-title":"精神分析 - A+医学百科","url":"http://www.a-hospital.com/w/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90","date":"2024-08-23 21:00:41"}}
+{"dg-publish":true,"permalink":"/09 - 网页剪切/精神分析 - A+医学百科/","created":"2024-08-23T21:00:42.537+08:00","updated":"2026-08-15T07:57:34.524+08:00","dg-note-properties":{"page-title":"精神分析 - A+医学百科","url":"http://www.a-hospital.com/w/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90","date":"2024-08-23 21:00:41"}}
 ---
 
 跳转到： [导航](http://www.a-hospital.com/w/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90#mw-head), [搜索](http://www.a-hospital.com/w/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90#p-search)
 
 **精神分析**psychoanalysis
 
-[![Bkdmo.jpg](http://p.ayxbk.com/images/thumb/6/69/Bkdmo.jpg/200px-Bkdmo.jpg)](http://www.a-hospital.com/w/%E6%96%87%E4%BB%B6:Bkdmo.jpg)
+[](http://www.a-hospital.com/w/%E6%96%87%E4%BB%B6:Bkdmo.jpg)
 
-[![](http://s.ayxbk.com/common/images/magnify-clip.png)](http://www.a-hospital.com/w/%E6%96%87%E4%BB%B6:Bkdmo.jpg "放大")
+[](http://www.a-hospital.com/w/%E6%96%87%E4%BB%B6:Bkdmo.jpg "放大")
 
 奥地利医学家S.弗洛伊德创建的治疗[神经症](http://www.a-hospital.com/w/%E7%A5%9E%E7%BB%8F%E7%97%87 "神经症")的一种方法。其理论的中心概念是无意识；不符合[社会规范](http://www.a-hospital.com/w/%E7%A4%BE%E4%BC%9A%E8%A7%84%E8%8C%83 "社会规范")的欲望和冲突被压抑在无意识中仍影响着意识，并可表现为神经症[症状](http://www.a-hospital.com/w/%E7%97%87%E7%8A%B6 "症状")。
 
@@ -33,9 +33,9 @@
 
 1900年，《释梦》（《梦的解析》）的出版标志着精神分析的诞生。一百一十年来，[心理学](http://www.a-hospital.com/w/%E5%BF%83%E7%90%86%E5%AD%A6 "心理学")的发展分崩离析，学派林立，除了精神分析，没有任何一个学派的发展超过了五十年，精神分析以其笃定的临床实践和不断加深细化的理论发展、在精神层面开展心理学研究的取向上鼎起了整个心理学的浩荡
 
-[![Bkdmp.jpg](http://p.ayxbk.com/images/thumb/b/b1/Bkdmp.jpg/200px-Bkdmp.jpg)](http://www.a-hospital.com/w/%E6%96%87%E4%BB%B6:Bkdmp.jpg)
+[](http://www.a-hospital.com/w/%E6%96%87%E4%BB%B6:Bkdmp.jpg)
 
-[![](http://s.ayxbk.com/common/images/magnify-clip.png)](http://www.a-hospital.com/w/%E6%96%87%E4%BB%B6:Bkdmp.jpg "放大")
+[](http://www.a-hospital.com/w/%E6%96%87%E4%BB%B6:Bkdmp.jpg "放大")
 
 百年。从弗洛伊德开始，精神分析诞生了弗洛伊德、荣格、阿德勒、兰克、赖希、安娜弗洛伊德、克莱茵、伍林科特（温尼科特）、拉康、霍妮、弗洛姆、德里达等一系列世界流芳的学者，其中弗洛伊德、荣格、拉康更是影响了整个人类文明传统的大师。自精神分析诞生以来，整个人文学科的发展就再也不能绕开精神分析，精神分析作为人文科学的主体学科渗透到整个人文学科的各个角落。
 

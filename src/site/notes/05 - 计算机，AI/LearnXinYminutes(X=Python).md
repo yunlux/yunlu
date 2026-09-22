@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"dg-permalink":"python","permalink":"/python/","created":"2024-08-04T12:31:07.958+08:00","updated":"2024-08-04T12:31:55.250+08:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"python","permalink":"/python/","created":"2024-08-04T12:31:07.958+08:00","updated":"2026-08-15T07:49:59.262+08:00","dg-note-properties":{}}
 ---
-
-
 
 
 >转载自[https://learnxinyminutes.com/](https://learnxinyminutes.com/) 添加了部分内容，持续更新
@@ -22,35 +20,35 @@
 type() # 查看对象类型
 dir() # 查看对象所有属性和方法
 
-type(1) # => <class 'int'>
-type(1.0) # => <class 'float'>
-type("") # => <class 'str'>
-type([]) # => <class 'list'>
-type({}) # => <class 'dict'>
-type(()) # => <class 'tuple'>
+type(1) # => 
+type(1.0) # => 
+type("") # => 
+type([]) # => 
+type({}) # => 
+type(()) # => 
 
 # 创建一个函数：
 def a():
     pass # 什么都不做。。。
 
-type(a) # => <class 'function'>
+type(a) # => 
 
 # 创建一个类：
 class A():
     pass
 
-type(A) # => <class 'type'>
-type(A()) # => <class 'A'> 此处A()为未命名的实例
+type(A) # => 
+type(A()) # =>  此处A()为未命名的实例
 a = A() # 把类A实例化并赐名a
-type(a) # => <class 'A'>
+type(a) # => 
 
 # 继承类
 class B(A):
     pass
 
-type(B) # => <class 'type'>
+type(B) # => 
 
-type(type) # => <class 'type'>
+type(type) # => 
 
 a.__doc__ # 返回内置document说明文档
 
@@ -162,7 +160,6 @@ bool("")  # => False
 bool([]) #=> False
 bool({}) #=> False
 
-
 ####################################################
 ## 2. 变量和集合
 ####################################################
@@ -232,7 +229,6 @@ li.extend(other_li)   # li现在是[1, 2, 3, 4, 5, 6]
 # 用len取列表长度
 len(li)   # => 6
 
-
 # 元组是不可改变的序列
 tup = (1, 2, 3)
 tup[0]   # => 1
@@ -251,7 +247,6 @@ d, e, f = 4, 5, 6
 # 交换两个变量的值就这么简单
 e, d = d, e     # 现在d是5，e是4
 
-
 # 用字典表达映射关系
 empty_dict = {}
 # 初始化的字典
@@ -260,16 +255,13 @@ filled_dict = {"one": 1, "two": 2, "three": 3}
 # 用[]取值
 filled_dict["one"]   # => 1
 
-
 # 用keys获得所有的键。因为keys返回一个可迭代对象，所以在这里把结果包在list里。
 # 我们下面会详细介绍可迭代。
 # 注意：字典键的顺序是不定的，你得到的结果可能和以下不同。
 list(filled_dict.keys())   # => ["three", "two", "one"]
 
-
 # 用values获得所有的值。跟keys一样，要用list包起来，顺序也可能不同。
 list(filled_dict.values())   # => [3, 2, 1]
-
 
 # 用in测试一个字典是否包含一个键
 "one" in filled_dict   # => True
@@ -296,7 +288,6 @@ filled_dict["four"] = 4  # 另一种赋值方法
 # 用del删除
 del filled_dict["one"]  # 从filled_dict中把one删除
 
-
 # 用set表达集合
 empty_set = set()
 # 初始化一个集合，语法跟字典相似。
@@ -322,7 +313,6 @@ filled_set | other_set   # => {1, 2, 3, 4, 5, 6}
 2 in filled_set   # => True
 10 in filled_set   # => False
 
-
 ####################################################
 ## 3. 流程控制和迭代器
 ####################################################
@@ -338,7 +328,6 @@ elif some_var < 10:    # elif句是可选的
     print("some_var比10小")
 else:                  # else也是可选的
     print("some_var就是10")
-
 
 """
 用for循环语句遍历列表
@@ -385,7 +374,6 @@ except (TypeError, NameError):
 else:   # else语句是可选的，必须在所有的except之后
     print("All good!")   # 只有当try运行完没有错误的时候这句才会运行
 
-
 # Python提供一个叫做可迭代(iterable)的基本抽象。一个可迭代对象是可以被当作序列
 # 的对象。比如说上面range返回的对象就是可迭代的。
 
@@ -417,8 +405,6 @@ our_iterator.__next__() # 抛出StopIteration
 # 可以用list一次取出迭代器所有的元素
 list(filled_dict.keys())  #=> Returns ["one", "two", "three"]
 
-
-
 ####################################################
 ## 4. 函数
 ####################################################
@@ -433,7 +419,6 @@ add(5, 6)   # => 印出"x is 5 and y is 6"并且返回11
 
 # 也可以用关键字参数来调用函数
 add(y=6, x=5)   # 关键字参数可以用任何顺序
-
 
 # 我们可以定义一个可变参数函数
 def varargs(*args):
@@ -455,7 +440,6 @@ args等于x之后所有参数组成的元组
     (2, 3, 4, 5)
     1
 """
-
 
 # 我们也可以定义一个关键字可变参数函数
 def keyword_args(**kwargs):
@@ -494,7 +478,6 @@ all_the_args(*args)   # 相当于 foo(1, 2, 3, 4)
 all_the_args(**kwargs)   # 相当于 foo(a=3, b=4)
 all_the_args(*args, **kwargs)   # 相当于 foo(1, 2, 3, 4, a=3, b=4)
 
-
 # 函数作用域
 x = 5
 
@@ -511,7 +494,6 @@ def setGlobalX(num):
 
 setX(43)
 setGlobalX(6)
-
 
 # 函数在Python是一等公民
 def create_adder(x):
@@ -540,7 +522,6 @@ filter(lambda x: x > 5, [3, 4, 5, 6, 7])   # => [6, 7]
 ## 5. 类
 ####################################################
 
-
 # 定义一个继承object的类
 class Human(object):
 
@@ -568,7 +549,6 @@ class Human(object):
     def grunt():
         return "*grunt*"
 
-
 # 构造一个实例
 i = Human(name="Ian")
 print(i.say("hi"))     # 印出 "Ian: hi"
@@ -586,7 +566,6 @@ j.get_species()   # => "H. neanderthalensis"
 
 # 调用静态方法
 Human.grunt()   # => "*grunt*"
-
 
 ####################################################
 ## 6. 模块
@@ -615,7 +594,6 @@ math.sqrt(16) == m.sqrt(16)   # => True
 # 你可以这样列出一个模块里所有的值
 import math
 dir(math)
-
 
 ####################################################
 ## 7. 高级用法
@@ -647,13 +625,10 @@ for tshirt in ('%s %s' % (c, s) for c in colors for s in sizes):
 
 # 关于生成器可以看看廖雪峰的这篇文章：http://t.cn/RK0jRwh
 
-
-
 # 装饰器(decorators)
 # 这个例子中，beg装饰say
 # beg会先调用say。如果返回的say_please为真，beg会改变返回的字符串。
 from functools import wraps
-
 
 def beg(target_function):
     @wraps(target_function)
@@ -665,15 +640,12 @@ def beg(target_function):
 
     return wrapper
 
-
 @beg
 def say(say_please=False):
     msg = "Can you buy me a beer?"
     return msg, say_please
 
-
 print(say())  # Can you buy me a beer?
 print(say(say_please=True))  # Can you buy me a beer? Please! I am poor :(
-
 
 ```

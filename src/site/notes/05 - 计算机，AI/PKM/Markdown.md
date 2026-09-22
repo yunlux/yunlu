@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/05 - 计算机，AI/PKM/Markdown/","created":"2025-04-30T03:42:23.301+08:00","updated":"2025-04-30T19:50:25.796+08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/05 - 计算机，AI/PKM/Markdown/","created":"2025-04-30T03:42:23.301+08:00","updated":"2026-08-15T07:49:59.336+08:00","dg-note-properties":{}}
 ---
-
-
 
 
 2014/7/17 上午7:24:50
@@ -35,11 +33,7 @@
 
 或者可以先允许用户自定义某个文件夹下的所有笔记为Markdown渲染嘛。
 
-
-
-
 ---
-
 
 << [访问 Wow!Ubuntu](http://wowubuntu.com)
 
@@ -93,25 +87,29 @@ Markdown 不是想要取代 HTML，甚至也没有要和它相近，它的语法
 
 不在 Markdown 涵盖范围之内的标签，都可以直接在文档里面用 HTML 撰写。不需要额外标注这是 HTML 或是 Markdown；只要直接加标签就可以了。
 
-要制约的只有一些 HTML 区块元素――比如 `<div>`、`<table>`、`<pre>`、`<p>` 等标签，必须在前后加上空行与其它内容区隔开，还要求它们的开始标签与结尾标签不能用制表符或空格来缩进。Markdown 的生成器有足够智能，不会在 HTML 区块标签外加上不必要的 `<p>` 标签。
+要制约的只有一些 HTML 区块元素――比如 `
+`、`
+`、`
+`、`
+` 等标签，必须在前后加上空行与其它内容区隔开，还要求它们的开始标签与结尾标签不能用制表符或空格来缩进。Markdown 的生成器有足够智能，不会在 HTML 区块标签外加上不必要的 `
+` 标签。
 
 例子如下，在 Markdown 文件里加上一段 HTML 表格：
 
 ```
 这是一个普通段落。
 
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
+    
+        Foo
+
+    
 
 这是另一个普通段落。
 ```
 
 请注意，在 HTML 区块标签间的 Markdown 格式语法将不会被处理。比如，你在 HTML 区块内使用 Markdown 样式的`*强调*`会没有效果。
 
-HTML 的区段（行内）标签如 `<span>`、`<cite>`、`<del>` 可以在 Markdown 的段落、列表或是标题里随意使用。依照个人习惯，甚至可以不用 Markdown 格式，而直接采用 HTML 标签来格式化。举例说明：如果比较喜欢 HTML 的 `<a>` 或 `<img>` 标签，可以直接使用这些标签，而不用 Markdown 提供的链接或是图像标签语法。
+HTML 的区段（行内）标签如 ``、``、`` 可以在 Markdown 的段落、列表或是标题里随意使用。依照个人习惯，甚至可以不用 Markdown 格式，而直接采用 HTML 标签来格式化。举例说明：如果比较喜欢 HTML 的 `` 或 `` 标签，可以直接使用这些标签，而不用 Markdown 提供的链接或是图像标签语法。
 
 和处在 HTML 区块标签间不同，Markdown 语法在 HTML 区段标签间是有效的。
 
@@ -175,11 +173,15 @@ Markdown 将会把它转换为：
 
 一个 Markdown 段落是由一个或多个连续的文本行组成，它的前后要有一个以上的空行（空行的定义是显示上看起来像是空的，便会被视为空行。比方说，若某一行只包含空格和制表符，则该行也会被视为空行）。普通段落不该用空格或制表符来缩进。
 
-「由一个或多个连续的文本行组成」这句话其实暗示了 Markdown 允许段落内的强迫换行（插入换行符），这个特性和其他大部分的 text-to-HTML 格式不一样（包括 Movable Type 的「Convert Line Breaks」选项），其它的格式会把每个换行符都转成 `<br />` 标签。
+「由一个或多个连续的文本行组成」这句话其实暗示了 Markdown 允许段落内的强迫换行（插入换行符），这个特性和其他大部分的 text-to-HTML 格式不一样（包括 Movable Type 的「Convert Line Breaks」选项），其它的格式会把每个换行符都转成 `
+` 标签。
 
-如果你_确实_想要依赖 Markdown 来插入 `<br />` 标签的话，在插入处先按入两个以上的空格然后回车。
+如果你_确实_想要依赖 Markdown 来插入 `
+` 标签的话，在插入处先按入两个以上的空格然后回车。
 
-的确，需要多费点事（多加空格）来产生 `<br />` ，但是简单地「每个换行都转换为 `<br />`」的方法在 Markdown 中并不适合， Markdown 中 email 式的 [区块引用](#blockquote) 和多段落的 [列表](#list) 在使用换行来排版的时候，不但更好用，还更方便阅读。
+的确，需要多费点事（多加空格）来产生 `
+` ，但是简单地「每个换行都转换为 `
+`」的方法在 Markdown 中并不适合， Markdown 中 email 式的 [区块引用](#blockquote) 和多段落的 [列表](#list) 在使用换行来排版的时候，不但更好用，还更方便阅读。
 
 ### 标题
 
@@ -305,11 +307,13 @@ Markdown 支持有序列表和无序列表。
 很重要的一点是，你在列表标记上使用的数字并不会影响输出的 HTML 结果，上面的列表所产生的 HTML 标记为：
 
 ```
-<ol>
-<li>Bird</li>
-<li>McHale</li>
-<li>Parish</li>
-</ol>
+
+Bird
+
+McHale
+
+Parish
+
 ```
 
 如果你的列表标记写成：
@@ -354,7 +358,8 @@ viverra nec, fringilla in, laoreet vitae, risus.
 Suspendisse id sem consectetuer libero luctus adipiscing.
 ```
 
-如果列表项目间用空行分开，在输出 HTML 时 Markdown 就会将项目内容用 `<p>`  
+如果列表项目间用空行分开，在输出 HTML 时 Markdown 就会将项目内容用 `
+`  
 标签包起来，举例来说：
 
 ```
@@ -365,10 +370,11 @@ Suspendisse id sem consectetuer libero luctus adipiscing.
 会被转换为：
 
 ```
-<ul>
-<li>Bird</li>
-<li>Magic</li>
-</ul>
+
+Bird
+
+Magic
+
 ```
 
 但是这个：
@@ -382,10 +388,11 @@ Suspendisse id sem consectetuer libero luctus adipiscing.
 会被转换为：
 
 ```
-<ul>
-<li><p>Bird</p></li>
-<li><p>Magic</p></li>
-</ul>
+
+Bird
+
+Magic
+
 ```
 
 列表项目可以包含多个段落，每个项目下的段落都必须缩进 4 个空格或是 1 个制表符：
@@ -445,7 +452,8 @@ sit amet, consectetuer adipiscing elit.
 
 ### 代码区块
 
-和程序相关的写作或是标签语言原始码通常会有已经排版好的代码区块，通常这些区块我们并不希望它以一般段落文件的方式去排版，而是照原来的样子显示，Markdown 会用 `<pre>` 和 `<code>` 标签来把代码区块包起来。
+和程序相关的写作或是标签语言原始码通常会有已经排版好的代码区块，通常这些区块我们并不希望它以一般段落文件的方式去排版，而是照原来的样子显示，Markdown 会用 `
+` 和 `` 标签来把代码区块包起来。
 
 要在 Markdown 中建立代码区块很简单，只要简单地缩进 4 个空格或是 1 个制表符就可以，例如，下面的输入：
 
@@ -458,10 +466,11 @@ sit amet, consectetuer adipiscing elit.
 Markdown 会转换成：
 
 ```
-<p>这是一个普通段落：</p>
 
-<pre><code>这是一个代码区块。
-</code></pre>
+这是一个普通段落：
+
+这是一个代码区块。
+
 ```
 
 这个每行一阶的缩进（4 个空格或是 1 个制表符），都会被移除，例如：
@@ -477,12 +486,13 @@ Here is an example of AppleScript:
 会被转换为：
 
 ```
-<p>Here is an example of AppleScript:</p>
 
-<pre><code>tell application "Foo"
+Here is an example of AppleScript:
+
+tell application "Foo"
     beep
 end tell
-</code></pre>
+
 ```
 
 一个代码区块会一直持续到没有缩进的那一行（或是文件结尾）。
@@ -490,18 +500,21 @@ end tell
 在代码区块里面， `&` 、 `<` 和 `>` 会自动转成 HTML 实体，这样的方式让你非常容易使用 Markdown 插入范例用的 HTML 原始码，只需要复制贴上，再加上缩进就可以了，剩下的 Markdown 都会帮你处理，例如：
 
 ```
-    <div class="footer">
+    
+
         &copy; 2004 Foo Corporation
-    </div>
+    
+
 ```
 
 会被转换为：
 
 ```
-<pre><code>&lt;div class="footer"&gt;
+
+&lt;div class="footer"&gt;
     &amp;copy; 2004 Foo Corporation
 &lt;/div&gt;
-</code></pre>
+
 ```
 
 代码区块中，一般的 Markdown 语法不会被转换，像是星号便只是星号，这表示你可以很容易地以 Markdown 语法撰写 Markdown 语法相关的文件。
@@ -543,11 +556,13 @@ This is [an example](http://example.com/ "Title") inline link.
 会产生：
 
 ```
-<p>This is <a href="http://example.com/" title="Title">
-an example</a> inline link.</p>
 
-<p><a href="http://example.net/">This link</a> has no
-title attribute.</p>
+This is 
+an example inline link.
+
+This link has no
+title attribute.
+
 ```
 
 如果你是要链接到同样主机的资源，你可以使用相对路径：
@@ -646,10 +661,11 @@ I get 10 times more traffic from [Google][] than from
 上面两种写法都会产生下面的 HTML。
 
 ```
-<p>I get 10 times more traffic from <a href="http://google.com/"
-title="Google">Google</a> than from
-<a href="http://search.yahoo.com/" title="Yahoo Search">Yahoo</a>
-or <a href="http://search.msn.com/" title="MSN Search">MSN</a>.</p>
+
+I get 10 times more traffic from Google than from
+Yahoo
+or MSN.
+
 ```
 
 下面是用行内式写的同样一段内容的 Markdown 文件，提供作为比较之用：
@@ -666,7 +682,7 @@ than from [Yahoo](http://search.yahoo.com/ "Yahoo Search") or
 
 ### 强调
 
-Markdown 使用星号（`*`）和底线（`_`）作为标记强调字词的符号，被 `*` 或 `_` 包围的字词会被转成用 `<em>` 标签包围，用两个 `*` 或 `_` 包起来的话，则会被转成 `<strong>`，例如：
+Markdown 使用星号（`*`）和底线（`_`）作为标记强调字词的符号，被 `*` 或 `_` 包围的字词会被转成用 `` 标签包围，用两个 `*` 或 `_` 包起来的话，则会被转成 ``，例如：
 
 ```
 *single asterisks*
@@ -681,13 +697,13 @@ __double underscores__
 会转成：
 
 ```
-<em>single asterisks</em>
+single asterisks
 
-<em>single underscores</em>
+single underscores
 
-<strong>double asterisks</strong>
+double asterisks
 
-<strong>double underscores</strong>
+double underscores
 ```
 
 你可以随便用你喜欢的样式，唯一的限制是，你用什么符号开启标签，就要用什么符号结束。
@@ -717,7 +733,9 @@ Use the `printf()` function.
 会产生：
 
 ```
-<p>Use the <code>printf()</code> function.</p>
+
+Use the printf() function.
+
 ```
 
 如果要在代码区段内插入反引号，你可以用多个反引号来开启和结束代码区段：
@@ -729,7 +747,9 @@ Use the `printf()` function.
 这段语法会产生：
 
 ```
-<p><code>There is a literal backtick (`) here.</code></p>
+
+There is a literal backtick (`) here.
+
 ```
 
 代码区段的起始和结束端都可以放入一个空白，起始端后面一个，结束端前面一个，这样你就可以在区段的一开始就插入反引号：
@@ -747,13 +767,15 @@ A backtick-delimited string in a code span: `` `foo` ``
 在代码区段内，`&` 和尖括号**都**会被自动地转成 HTML 实体，这使得插入 HTML 原始码变得很容易，Markdown 会把下面这段：
 
 ```
-Please don't use any `<blink>` tags.
+Please don't use any `` tags.
 ```
 
 转为：
 
 ```
-<p>Please don't use any <code>&lt;blink&gt;</code> tags.</p>
+
+Please don't use any &lt;blink&gt; tags.
+
 ```
 
 你也可以这样写：
@@ -765,8 +787,10 @@ Please don't use any `<blink>` tags.
 以产生：
 
 ```
-<p><code>&amp;#8212;</code> is the decimal-encoded
-equivalent of <code>&amp;mdash;</code>.</p>
+
+&amp;#8212; is the decimal-encoded
+equivalent of &amp;mdash;.
+
 ```
 
 ### 图片
@@ -802,7 +826,7 @@ Markdown 使用一种和链接很相似的语法来标记图片，同样也允�
 [id]: url/to/image  "Optional title attribute"
 ```
 
-到目前为止， Markdown 还没有办法指定图片的宽高，如果你需要的话，你可以使用普通的 `<img>` 标签。
+到目前为止， Markdown 还没有办法指定图片的宽高，如果你需要的话，你可以使用普通的 `` 标签。
 
 ---
 
@@ -819,31 +843,29 @@ Markdown 支持以比较简短的自动链接形式来处理网址和电子邮�
 Markdown 会转为：
 
 ```
-<a href="http://example.com/">http://example.com/</a>
+http://example.com/
 ```
 
 邮址的自动链接也很类似，只是 Markdown 会先做一个编码转换的过程，把文字字符转成 16 进位码的 HTML 实体，这样的格式可以糊弄一些不好的邮址收集机器人，例如：
 
 ```
-<address@example.com>
+
 ```
 
 Markdown 会转成：
 
 ```
-<a href="&#x6D;&#x61;i&#x6C;&#x74;&#x6F;:&#x61;&#x64;&#x64;&#x72;&#x65;
-&#115;&#115;&#64;&#101;&#120;&#x61;&#109;&#x70;&#x6C;e&#x2E;&#99;&#111;
-&#109;">&#x61;&#x64;&#x64;&#x72;&#x65;&#115;&#115;&#64;&#101;&#120;&#x61;
-&#109;&#x70;&#x6C;e&#x2E;&#99;&#111;&#109;</a>
+&#x61;&#x64;&#x64;&#x72;&#x65;&#115;&#115;&#64;&#101;&#120;&#x61;
+&#109;&#x70;&#x6C;e&#x2E;&#99;&#111;&#109;
 ```
 
-在浏览器里面，这段字串（其实是 `<a href="mailto:address@example.com">address@example.com</a>`）会变成一个可以点击的「address@example.com」链接。
+在浏览器里面，这段字串（其实是 `address@example.com`）会变成一个可以点击的「address@example.com」链接。
 
 （这种作法虽然可以糊弄不少的机器人，但并不能全部挡下来，不过总比什么都不做好些。不管怎样，公开你的信箱终究会引来广告信件的。）
 
 ### 反斜杠
 
-Markdown 可以利用反斜杠来插入一些在语法中有其它意义的符号，例如：如果你想要用星号加在文字旁边的方式来做出强调效果（但不用 `<em>` 标签），你可以在星号的前面加上反斜杠：
+Markdown 可以利用反斜杠来插入一些在语法中有其它意义的符号，例如：如果你想要用星号加在文字旁边的方式来做出强调效果（但不用 `` 标签），你可以在星号的前面加上反斜杠：
 
 ```
 \*literal asterisks\*
@@ -905,5 +927,4 @@ Mac 平台
 *** 如有更好的 Markdown 免费编辑器推荐，请到[这里反馈](https://gitcafe.com/riku/Markdown-Syntax-CN/tickets/1)，谢谢！
 
 来源： <[](https://gitcafe.com/riku/Markdown-Syntax-CN/raw/master/syntax.md)[https://gitcafe.com/riku/Markdown-Syntax-CN/raw/master/syntax.md](https://gitcafe.com/riku/Markdown-Syntax-CN/raw/master/syntax.md)>
-
 
